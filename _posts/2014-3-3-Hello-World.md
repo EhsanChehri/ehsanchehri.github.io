@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hello jekyll!
+title: Hello Jekyll!
 ---
 
 My wordpress blog: ehsaider.ir
