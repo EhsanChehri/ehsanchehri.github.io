@@ -3,8 +3,6 @@ layout: post
 title: Hello Jekyll!
 ---
 
-My wordpress blog: ehsaider.ir
+My wordpress blog: [ehsaider.ir](https://ehsaider.ir/)
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+![_config.yml](https://gravatar.com/userimage/72033481/9b9931afb9d22b27608b8734a6b4634f.jpeg)
