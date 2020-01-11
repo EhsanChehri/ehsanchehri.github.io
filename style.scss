@@ -283,6 +283,8 @@ footer {
   text-align: center;
 }
 
+@font-face{font-family:Vazir;src:url(https://ehsaider.ir/wp-content/uploads/Vazir.eot);src:url(https://ehsaider.ir/wp-content/uploads/Vazir.eot?#iefix) format('embedded-opentype'),url(https://ehsaider.ir/wp-content/uploads/Vazir.woff) format('woff'),url(https://ehsaider.ir/wp-content/uploads/Vazir.woff2) format('woff2'),url(https://ehsaider.ir/wp-content/uploads/Vazir.ttf) format('truetype');font-weight:400;font-style:normal}.Vazir{font-family:Vazir!important}a,blockquote,body,button,h1,h2,h3,h4,h5,h6,input,li,p{font-family:Vazir!important}
+
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
