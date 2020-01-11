@@ -9,10 +9,6 @@
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
     {% endif %}
 
-    {% if page.url %}
-    <meta content="{{ site.url }}{{ page.url }}" property="og:url">
-    {% endif %}
-
     {% if page.excerpt %}
     <meta name="description" content="{{ page.excerpt| strip_html }}" />
     <meta property="og:description" content="{{ page.excerpt| strip_html }}" />
