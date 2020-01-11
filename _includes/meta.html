@@ -3,9 +3,10 @@
     <meta http-equiv='X-UA-Compatible' content='IE=edge'>
     <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
 
-    {% if site.url %}
-    <link rel="canonical" href="{{ seo_tag.canonical_url }}" />
-    <meta property="og:url" content="{{ seo_tag.canonical_url }}" />
+    {% if page.canonical_url != nil %}
+    <link rel="canonical" href="{{ page.canonical_url }}"/>
+    {% else %}
+    <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
     {% endif %}
 
     {% if page.excerpt %}
