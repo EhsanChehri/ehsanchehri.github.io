@@ -84,6 +84,5 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
-  - .htaccess
 
 theme: jekyll-theme-minimal
