@@ -84,3 +84,9 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+
+whitelist:
+  - jekyll-redirect-from
+
+plugins:
+  - jekyll-redirect-from  
