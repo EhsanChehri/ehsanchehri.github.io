@@ -11,3 +11,8 @@ title: حمله برخاست در شطرنج
 
 برای دوستانی که از سایتای خارجی استفاده میکنن Discovered Attack همون حمله برخاسته
 
+![حمله برخاست](https://ehsanchehri.github.io/images/Discovered-Attack.PNG)
+
+در این تصویر میبینیم با جابجایی مهره اسب به خانه e5 میتونیم کیش برخاست کنیم و بعد از حرکت اجباری حریف وزیر سیاه رو میگیریم
+
+برای حل تمرینات حمله برخاست [اینجا](https://lichess.org/practice/basic-tactics/discovered-attacks/MnsJEWnI/vV50tWGB) کلیک کنید
