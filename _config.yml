@@ -2,10 +2,10 @@ name: وبلاگ احسان چهری
 
 description: روزنوشت‌ها و روزمرگی‌های وبلاگی احسان چهری
 
-avatar: https://ehsanchehri.github.io/images/ehsaider.png
+avatar: /images/ehsaider.png
 
 footer-links:
-  rss: https://ehsanchehri.github.io/feed.xml
+  rss: /feed.xml
   twitter: ehsanchehri
 
 disqus:
