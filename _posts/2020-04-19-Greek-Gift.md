@@ -12,3 +12,22 @@ title: هدیه یونانی یا Greek Gift در شطرنج
 در این تصویر میبینید فیل سفید در خانه h7 قربانی میشه و شاه مجبوره بیاد بیرون
 
 برای انجام تمرینات هدیه یونانی به [اینجا](https://lichess.org/practice/intermediate-tactics/greek-gift/s5pLU7Of/uCkLsFs1) مراجعه کنید
+
+## مطالب مرتبط
+[مهره آچمز یا pin](https://ehsanchehri.github.io/pin)
+
+[Zwischenzug یا حرکت بینابینی](https://ehsanchehri.github.io/Zwischenzug)
+
+[حرکت زوگزوانگ یا Zugzwang](https://ehsanchehri.github.io/Zugzwang)
+
+[سیخ کباب یا Skewer](https://ehsanchehri.github.io/Skewer)
+
+[اضافه بار یا Overloaded Pieces](https://ehsanchehri.github.io/Overloaded-Pieces)
+
+[تاکتیک انسداد یا تداخل](https://ehsanchehri.github.io/Interference)
+
+[کیش دوگانه یا Double Check](https://ehsanchehri.github.io/Double-Check)
+
+[حمله برخاست](https://ehsanchehri.github.io/Discovered-Attack)
+
+[حمله دوگانه یا چنگال](https://ehsanchehri.github.io/fork)
