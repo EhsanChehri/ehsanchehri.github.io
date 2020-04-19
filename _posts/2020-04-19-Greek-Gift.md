@@ -7,3 +7,8 @@ title: هدیه یونانی یا Greek Gift در شطرنج
 
 قربانی یونانی یکی از روش های حمله به شاه قلعه رفته‌ست و بهتره قبل از قلعه رفتن فیل مزاحم قلعه رفتن بشه
 
+![هدیه یونانی](https://ehsanchehri.github.io/images/Greek-Gift.PNG)
+
+در این تصویر میبینید فیل سفید در خانه h7 قربانی میشه و شاه مجبوره بیاد بیرون
+
+برای انجام تمرینات هدیه یونانی به [اینجا](https://lichess.org/practice/intermediate-tactics/greek-gift/s5pLU7Of/uCkLsFs1) مراجعه کنید
