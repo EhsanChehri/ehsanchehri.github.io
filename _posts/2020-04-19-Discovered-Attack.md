@@ -16,3 +16,22 @@ title: حمله برخاست در شطرنج
 در این تصویر میبینیم با جابجایی مهره اسب به خانه e5 میتونیم کیش برخاست کنیم و بعد از حرکت اجباری حریف وزیر سیاه رو میگیریم
 
 برای حل تمرینات حمله برخاست [اینجا](https://lichess.org/practice/basic-tactics/discovered-attacks/MnsJEWnI/vV50tWGB) کلیک کنید
+
+## مطالب مرتبط
+[مهره آچمز یا pin](https://ehsanchehri.github.io/pin)
+
+[Zwischenzug یا حرکت بینابینی](https://ehsanchehri.github.io/Zwischenzug)
+
+[حرکت زوگزوانگ یا Zugzwang](https://ehsanchehri.github.io/Zugzwang)
+
+[سیخ کباب یا Skewer](https://ehsanchehri.github.io/Skewer)
+
+[اضافه بار یا Overloaded Pieces](https://ehsanchehri.github.io/Overloaded-Pieces)
+
+[تاکتیک انسداد یا تداخل](https://ehsanchehri.github.io/Interference)
+
+[هدیه یونانی یا Greek Gift](https://ehsanchehri.github.io/Greek-Gift)
+
+[کیش دوگانه یا Double Check](https://ehsanchehri.github.io/Double-Check)
+
+[حمله دوگانه یا چنگال](https://ehsanchehri.github.io/fork)
