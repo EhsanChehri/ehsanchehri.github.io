@@ -8,11 +8,13 @@ footer-links:
   rss: https://ehsanchehri.github.io/feed.xml
   twitter: ehsanchehri
 
+disqus:
+
+google_analytics:
+
 url: https://ehsanchehri.github.io
 
 permalink: /:title
-
-google_analytics:
 
 version: v1.2.0
 
