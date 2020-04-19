@@ -25,7 +25,7 @@ kramdown:
     css_class: 'highlight'
 
 sass:
-  style: :compressed # You might prefer to minify using :expanded
+  style: :compressed # Or using :expanded
 
 gems:
   - jekyll-sitemap
