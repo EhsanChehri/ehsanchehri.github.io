@@ -14,3 +14,22 @@ title: تاکتیک انسداد یا تداخل در شطرنج
 در تصویر بالا میبینیم فیل سیاه با رفتن به خانه b5 میتونه ارتباط وزیر و فیل سفید رو قطع کنه و همزمان توسط رخ b1 دفاع بشه
 
 برای انجام تمرینات تداخل به [اینجا](https://lichess.org/practice/intermediate-tactics/interference/g1fxVZu9/zSpQlGkf) مراجعه کنید
+
+## مطالب مرتبط
+[مهره آچمز یا pin](https://ehsanchehri.github.io/pin)
+
+[Zwischenzug یا حرکت بینابینی](https://ehsanchehri.github.io/Zwischenzug)
+
+[حرکت زوگزوانگ یا Zugzwang](https://ehsanchehri.github.io/Zugzwang)
+
+[سیخ کباب یا Skewer](https://ehsanchehri.github.io/Skewer)
+
+[اضافه بار یا Overloaded Pieces](https://ehsanchehri.github.io/Overloaded-Pieces)
+
+[هدیه یونانی یا Greek Gift](https://ehsanchehri.github.io/Greek-Gift)
+
+[کیش دوگانه یا Double Check](https://ehsanchehri.github.io/Double-Check)
+
+[حمله برخاست](https://ehsanchehri.github.io/Discovered-Attack)
+
+[حمله دوگانه یا چنگال](https://ehsanchehri.github.io/fork)
