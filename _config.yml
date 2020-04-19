@@ -12,6 +12,8 @@ url: https://ehsanchehri.github.io
 
 permalink: /:title
 
+google_analytics:
+
 version: v1.2.0
 
 kramdown:
