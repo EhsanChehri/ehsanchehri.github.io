@@ -6,13 +6,13 @@ layout: default
   {% for post in site.posts %}
     <article class="post">
 
-      <h2><a href="https://ehsanchehri.github.io{{ post.url }}">{{ post.title }}</a></h2>
+      <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
 
       <div class="entry">
         {{ post.excerpt }}
       </div>
 
-      <a href="https://ehsanchehri.github.io{{ post.url }}" class="read-more">ادامه مطلب</a>
+      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">ادامه مطلب</a>
     </article>
   {% endfor %}
 </div>
