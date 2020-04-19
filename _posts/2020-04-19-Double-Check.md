@@ -12,3 +12,22 @@ title: کیش دوگانه یا Double Check در شطرنج
 در این تصویر میبینیم که اسب سفید با رفتن به خانه b6 میتونه همزمان خودش و رخ به شاه سیاه کیش بدن که بعد از رفتن شاه سیاه به خانه b8 رخ سفید میره a8 و سیاه کیش و مات میشه
 
 برای انجام تمرینات کیش دوگانه به [اینجا](https://lichess.org/practice/basic-tactics/double-check/RUQASaZm/8Chn1bVb) مراجعه کنید
+
+## مطالب مرتبط
+[مهره آچمز یا pin](https://ehsanchehri.github.io/pin)
+
+[Zwischenzug یا حرکت بینابینی](https://ehsanchehri.github.io/Zwischenzug)
+
+[حرکت زوگزوانگ یا Zugzwang](https://ehsanchehri.github.io/Zugzwang)
+
+[سیخ کباب یا Skewer](https://ehsanchehri.github.io/Skewer)
+
+[اضافه بار یا Overloaded Pieces](https://ehsanchehri.github.io/Overloaded-Pieces)
+
+[تاکتیک انسداد یا تداخل](https://ehsanchehri.github.io/Interference)
+
+[هدیه یونانی یا Greek Gift](https://ehsanchehri.github.io/Greek-Gift)
+
+[حمله برخاست](https://ehsanchehri.github.io/Discovered-Attack)
+
+[حمله دوگانه یا چنگال](https://ehsanchehri.github.io/fork)
