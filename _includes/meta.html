@@ -8,3 +8,13 @@
   {% endif %}
   
   <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+
+    {% if page.title %}
+        {% if page.jsonld %}
+            {% include {{page.jsonld}}.html %}
+        {% else %}
+            {% include postJSONLD.html %}
+        {% endif %}
+    {% else %}
+        {% include homeJSONLD.html %}
+    {% endif %}
