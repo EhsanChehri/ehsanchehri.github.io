@@ -25,7 +25,7 @@ title: تاثیر خرید بک لینک در سئو
 
 این مطلب خلاصه ای از نوشته [فاکتورهای 2020](https://ehsaider.ir/seo/google-ranking-factors) سئو قبلا در احسایدر منتشر شده
 
-### مطالب مرتبط
+**مطالب مرتبط**
 
 [پیشرفت سئوی داخلی سایت آپارات](https://ehsanchehri.github.io/aparat)
 
