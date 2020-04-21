@@ -5,13 +5,11 @@ layout: default
 <article class="post">
   <h2>{{ page.title }}</h2>
 
-  <div class="entry">
-    {{ content }}
-  </div>
-
   <div class="date">
     {{ page.date | date: "%Y-%m-%d" }}
   </div>
 
-  {% include disqus.html %}
+  <div class="entry">
+    {{ content }}
+  </div>
 </article>
