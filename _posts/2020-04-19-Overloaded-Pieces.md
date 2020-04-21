@@ -13,7 +13,8 @@ title: اضافه بار یا Overloaded Pieces در شطرنج
 
 برای انجام تمرینات اضافه بار به [اینجا](https://lichess.org/practice/basic-tactics/overloaded-pieces/o734CNqp/uwHXFeHt) مراجعه کنید
 
-### مطالب مرتبط
+**مطالب مرتبط**
+
 [مهره آچمز یا pin](https://ehsanchehri.github.io/pin)
 
 [Zwischenzug یا حرکت بینابینی](https://ehsanchehri.github.io/Zwischenzug)
