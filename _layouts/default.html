@@ -3,36 +3,28 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-    <h1><title>{% if page.title %}{{ page.title }} - {% endif %}{{ site.name }}</title></h1>
-
-    {% include meta.html %}
-
-    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
-    <link rel="alternate" type="application/rss+xml" href="{{ site.baseurl }}/feed.xml" />
-
-  </head>
-
-  <body>
-    <div class="wrapper-masthead">
-      <div class="container">
-        <header class="masthead clearfix">
-          <nav>
-            <a title="{{ site.name }}" href="https://ehsanchehri.github.io/"><img src="{{ site.avatar }}" alt="{{ site.name }}" /></a>
-          </nav>
-        </header>
-      </div>
-    </div>
-
-    <div id="main" role="main" class="container">
-      {{ content }}
-    </div>
-
-    <div class="wrapper-footer">
-      <div class="container">
-        <footer class="footer">
-          {% include svg-icons.html %}
-        </footer>
-      </div>
-    </div>
-  </body>
+<h1><title>{% if page.title %}{{ page.title }} - {% endif %}{{ site.name }}</title></h1>
+{% include meta.html %}
+<link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css">
+<link rel="alternate" type="application/rss+xml" href="{{ site.baseurl }}/feed.xml">
+</head>
+<body>
+<div class="wrapper-masthead">
+<div class="container">
+<header class="masthead clearfix">
+<nav>
+<a title="{{ site.name }}" href="https://ehsanchehri.github.io/"><img src="{{ site.avatar }}" alt="{{ site.name }}" /></a>
+</nav>
+</header>
+</div>
+</div>
+<div id="main" role="main" class="container">{{ content }}</div>
+<div class="wrapper-footer">
+<div class="container">
+<footer class="footer">
+{% include svg-icons.html %}
+</footer>
+</div>
+</div>
+</body>
 </html>
