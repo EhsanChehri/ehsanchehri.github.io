@@ -3,13 +3,11 @@ layout: default
 ---
 
 <article class="post">
-  <h2>{{ page.title }}</h2>
-
-  <div class="date">
-    {{ page.date | date: "%Y-%m-%d" }}
-  </div>
-
-  <div class="entry">
-    {{ content }}
-  </div>
+<h2>{{ page.title }}</h2>
+<div class="date">
+{{ page.date | date: "%Y-%m-%d" }}
+</div>
+<div class="entry">
+{{ content }}
+</div>
 </article>
