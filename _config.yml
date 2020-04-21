@@ -8,10 +8,6 @@ footer-links:
   rss: /feed.xml
   twitter: ehsanchehri
 
-disqus:
-
-google_analytics:
-
 url: https://ehsanchehri.github.io
 
 baseurl: ""
@@ -27,7 +23,7 @@ kramdown:
     css_class: 'highlight'
 
 sass:
-  style: :compressed # Or using :expanded
+  style: :compressed
 
 gems:
   - jekyll-sitemap
