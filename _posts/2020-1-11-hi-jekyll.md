@@ -15,15 +15,7 @@ title: سلام جکیل!
 
 ---
 
-برای درج کنونیکال استاندارد میتونید از کد زیر در متاهای جکیل استفاده کنید
-
-```php
-{% if page.canonical_url != nil %}
-<link rel="canonical" href="{{ page.canonical_url }}"/>
-{% else %}
-<link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
-{% endif %}
-```
+برای استفاده از کنونیکال میتونید از [این لینک](https://gist.github.com/bennylope/1894706#gistcomment-2821633) کمک بگیرید
 
 و نشانه گذاری متن با مارک دون انجام میشه که [این لینک](https://commonmark.org/help/) میتونه کمکتون کنه
 
