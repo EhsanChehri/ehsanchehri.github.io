@@ -10,6 +10,8 @@ footer-links:
   twitter: ehsanchehri
   rss: feed.xml
 
+paginate: 5
+
 kramdown:
   input: GFM
   syntax_highlighter: rouge
