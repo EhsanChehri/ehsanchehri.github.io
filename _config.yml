@@ -6,6 +6,10 @@ avatar: images/ehsaider.png
 
 permalink: /:title
 
+footer-links:
+  twitter: ehsanchehri
+  rss: feed.xml
+
 kramdown:
   input: GFM
   syntax_highlighter: rouge
