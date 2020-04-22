@@ -2,19 +2,13 @@ name: وبلاگ احسان چهری
 
 description: روزنوشت‌ها و یادداشت‌های احسان چهری، از سئو تا شطرنج
 
-avatar: /images/ehsaider.png
+avatar: images/ehsaider.png
 
 footer-links:
   rss: /feed.xml
   twitter: ehsanchehri
 
-url: https://ehsanchehri.github.io
-
-baseurl: ""
-
 permalink: /:title
-
-version: v1.2.0
 
 kramdown:
   input: GFM
