@@ -31,6 +31,8 @@ paginate: 50
 
 paginate_path: /page:num
 
+lang: fa_IR
+
 exclude:
   - Gemfile
   - Gemfile.lock
