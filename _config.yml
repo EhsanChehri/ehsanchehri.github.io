@@ -42,8 +42,6 @@ twitter:
   username: ehsanchehri
   card: summary
 
-image: /images/
-
 exclude:
   - Gemfile
   - Gemfile.lock
