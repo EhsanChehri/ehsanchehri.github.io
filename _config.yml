@@ -19,9 +19,6 @@ kramdown:
 sass:
   style: :compressed
 
-compress_html:
-  clippings: all
-
 gems:
   - jekyll-sitemap
   - jekyll-feed
