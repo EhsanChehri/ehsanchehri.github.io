@@ -25,6 +25,7 @@ gems:
 
 plugins:
   - jekyll-paginate
+  - jekyll-seo-tag
 
 paginate: 50
 
