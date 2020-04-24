@@ -37,6 +37,8 @@ twitter:
   username: ehsanchehri
   card: summary
 
+timezone: Iran/Tehran
+
 exclude:
   - Gemfile
   - Gemfile.lock
