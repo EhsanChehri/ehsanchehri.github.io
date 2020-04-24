@@ -38,6 +38,10 @@ social:
   links:
     - https://twitter.com/ehsanchehri
 
+twitter:
+  username: ehsanchehri
+  card: summary
+
 exclude:
   - Gemfile
   - Gemfile.lock
