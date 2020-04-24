@@ -9,6 +9,9 @@
 {% else %}
 <link rel="alternate" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}" hreflang="fa-ir">
 {% endif %}
+{% if page.path contains '_posts' %}
+<link rel="amphtml" href="{{ page.id | prepend: '/YOURDIR' | prepend: site.baseurl | prepend: site.url | append: '.html' }}">
+{% endif %}
 <link rel="stylesheet" type="text/css" href="style.css">
 <link rel="alternate" type="application/rss+xml" href="feed.xml">
 </head>
