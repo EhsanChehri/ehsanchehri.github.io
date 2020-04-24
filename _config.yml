@@ -26,5 +26,5 @@ gems:
 exclude:
   - Gemfile
   - Gemfile.lock
-  - .sass-cache/
-  - .jekyll-cache/
+  - README.md
+  - LICENSE
