@@ -23,6 +23,13 @@ gems:
   - jekyll-sitemap
   - jekyll-feed
 
+plugins:
+  - jekyll-paginate
+
+paginate: 20
+
+paginate_path: /page:num
+
 exclude:
   - Gemfile
   - Gemfile.lock
