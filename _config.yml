@@ -33,6 +33,11 @@ paginate_path: /page:num
 
 lang: fa_IR
 
+social:
+  name: Ehsan Chehri
+  links:
+    - https://twitter.com/ehsanchehri
+
 exclude:
   - Gemfile
   - Gemfile.lock
