@@ -33,11 +33,6 @@ paginate_path: /page:num
 
 lang: fa_IR
 
-social:
-  name: Ehsan Chehri
-  links:
-    - https://twitter.com/ehsanchehri
-
 twitter:
   username: ehsanchehri
   card: summary
