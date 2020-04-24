@@ -6,6 +6,8 @@ avatar: images/ehsaider.png
 
 permalink: /:title
 
+encoding: UTF-8
+
 footer-links:
   twitter: ehsanchehri
   rss: feed.xml
