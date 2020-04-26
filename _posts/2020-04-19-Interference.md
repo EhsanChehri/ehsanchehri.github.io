@@ -34,3 +34,5 @@ title: تاکتیک انسداد یا تداخل در شطرنج
 [حمله برخاست](https://ehsanchehri.github.io/Discovered-Attack)
 
 [حمله دوگانه یا چنگال](https://ehsanchehri.github.io/fork)
+
+[طعمه یا decoy در شطرنج](https://ehsanchehri.github.io/decoy)
