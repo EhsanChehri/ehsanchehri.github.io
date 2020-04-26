@@ -36,3 +36,5 @@ title: حمله برخاست در شطرنج
 [کیش دوگانه یا Double Check](https://ehsanchehri.github.io/Double-Check)
 
 [حمله دوگانه یا چنگال](https://ehsanchehri.github.io/fork)
+
+[طعمه یا decoy در شطرنج](https://ehsanchehri.github.io/decoy)
