@@ -34,3 +34,5 @@ title: کیش دوگانه یا Double Check در شطرنج
 [حمله دوگانه یا چنگال](https://ehsanchehri.github.io/fork)
 
 [طعمه یا decoy در شطرنج](https://ehsanchehri.github.io/decoy)
+
+[طعمه یا decoy در شطرنج](https://ehsanchehri.github.io/decoy)
