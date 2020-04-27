@@ -26,12 +26,7 @@ gems:
   - jekyll-feed
 
 plugins:
-  - jekyll-paginate
   - jekyll-seo-tag
-
-paginate: 50
-
-paginate_path: /page:num
 
 lang: fa_IR
 
