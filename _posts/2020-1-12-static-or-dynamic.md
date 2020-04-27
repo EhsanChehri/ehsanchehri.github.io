@@ -7,4 +7,6 @@ title: شطرنج دینامیک و مباحث مرتبط
 
 در این ویدیو استاد مهران حق شناس بیشتر درباره شطرنج پویا و دینامیک صحبت میکنه
 
-!video[ویدیو شطرنج دینامیک](https://hw20.cdn.asset.aparat.com/aparat-video/9920c7acdf0d087cd637363971f7724317883712-360p.mp4){size=10}
+<video width="320" height="240" controls>
+<source src="movie.mp4" type="https://hw20.cdn.asset.aparat.com/aparat-video/9920c7acdf0d087cd637363971f7724317883712-360p.mp4">
+</video>
