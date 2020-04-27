@@ -15,10 +15,10 @@ title: سلام جکیل!
 
 ---
 
-برای استفاده از کنونیکال میتونید از [این لینک](https://gist.github.com/bennylope/1894706#gistcomment-2821633) کمک بگیرید
+برای افزودن متاهای ضروری سئو مثل کنونیال از [جکیل سئو تگ](https://github.com/jekyll/jekyll-seo-tag) استفاده کردم
 
 و نشانه گذاری متن با مارک دون انجام میشه که [این لینک](https://commonmark.org/help/) میتونه کمکتون کنه
 
 برای نوشتن راحت تر میتونید از ابزار آنلاین [استک ادیت](https://stackedit.io/) استفاده کنید
 
-برای دیدن راهنمای نمایش کد در پست ها و جداکننده متن [اینجا](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) کلیک کنید
+برای دیدن راهنمای نمایش کد در پست ها و مواردی مثل جداکننده متن [اینجا](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) کلیک کنید
