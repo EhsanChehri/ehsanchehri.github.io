@@ -10,3 +10,11 @@ title: شطرنج دینامیک و مباحث مرتبط
 <video controls="controls"><source type="video/mp4" src="https://hw20.cdn.asset.aparat.com/aparat-video/9920c7acdf0d087cd637363971f7724317883712-360p.mp4"></video>
 
 منتشر شده در [کانال فدراسیون شطرنج ایران](https://www.aparat.com/iranchessfederation)
+
+**مطالب مرتبط**
+
+[منابع و سایت‌های مورد نیاز شطرنج](https://ehsanchehri.github.io/buy-backlinks)
+
+[کانال‌های برتر شطرنج](https://ehsanchehri.github.io/aparat)
+
+[برترین برنامه‌های آموزش شطرنج اندروید](https://ehsanchehri.github.io/404-error)
