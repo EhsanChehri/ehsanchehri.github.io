@@ -36,3 +36,5 @@ title: تاکتیک انسداد یا تداخل در شطرنج
 [حمله دوگانه یا چنگال](https://ehsanchehri.github.io/fork)
 
 [طعمه یا decoy در شطرنج](https://ehsanchehri.github.io/decoy)
+
+[آن پاسان یا گرفتن در حین عبور](https://ehsanchehri.github.io/en-passant)
