@@ -36,3 +36,5 @@ title: کیش دوگانه یا Double Check در شطرنج
 [طعمه یا decoy در شطرنج](https://ehsanchehri.github.io/decoy)
 
 [طعمه یا decoy در شطرنج](https://ehsanchehri.github.io/decoy)
+
+[آن پاسان یا گرفتن در حین عبور](https://ehsanchehri.github.io/en-passant)
