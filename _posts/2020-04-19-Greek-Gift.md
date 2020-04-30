@@ -36,3 +36,5 @@ title: هدیه یونانی یا Greek Gift در شطرنج
 [طعمه یا decoy در شطرنج](https://ehsanchehri.github.io/decoy)
 
 [آن پاسان یا گرفتن در حین عبور](https://ehsanchehri.github.io/en-passant)
+
+[قلعه رفتن یا حرکت شاه قلعه](https://ehsanchehri.github.io/castling)
