@@ -40,3 +40,5 @@ title: آن پاسان یا en passant در شطرنج
 [طعمه یا decoy در شطرنج](https://ehsanchehri.github.io/decoy)
 
 [مهره آچمز یا pin](https://ehsanchehri.github.io/pin)
+
+[قلعه رفتن یا حرکت شاه قلعه](https://ehsanchehri.github.io/castling)
