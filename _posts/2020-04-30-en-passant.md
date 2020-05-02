@@ -13,7 +13,7 @@ title: آن پاسان یا en passant در شطرنج
 
 اگر بازم براتون گیج کننده بود میتونید ویدیو آموزش آن پاسان یا معادل انگلیسی en passant رو ببینید
 
-<video controls="controls"><source type="video/mp4" src="https://as8.cdn.asset.aparat.com/aparat-video/a425185bca5186540cf29fbab0d7202a6205830-360p.mp4"></video>
+<video controls><source src="https://as8.cdn.asset.aparat.com/aparat-video/a425185bca5186540cf29fbab0d7202a6205830-360p.mp4" type="video/mp4"></video>
 
 حالا وقتشه چندتا تمرین گرفتن در حین عبور از سایت لایچس حل کنی تا ملکه ذهنت بشه. برای حل تمرین [اینجا](https://lichess.org/learn#/15) کلیک کن
 
