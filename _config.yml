@@ -29,6 +29,7 @@ plugins:
   - jekyll-seo-tag
 
 lang: fa_IR
+author: ehsan chehri
 
 twitter:
   username: ehsanchehri
