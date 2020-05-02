@@ -17,7 +17,7 @@ title: آن پاسان یا en passant در شطرنج
 
 حالا وقتشه چندتا تمرین گرفتن در حین عبور از سایت لایچس حل کنی تا ملکه ذهنت بشه. برای حل تمرین [اینجا](https://lichess.org/learn#/15) کلیک کن
 
-***مطالب مرتبط***
+**مطالب مرتبط**
 
 [Zwischenzug یا حرکت بینابینی](https://ehsanchehri.github.io/Zwischenzug)
 
