@@ -19,7 +19,7 @@ html {
 
 body {
 	background: $white;
-  font: 18px/1.4 $Vazir;
+  font: 18px/1.4 $helvetica;
   color: $darkGray;
 }
 
@@ -31,7 +31,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: $Vazir;
+  font-family: $helveticaNeue;
   color: $darkerGray;
   font-weight: bold;
 
@@ -66,7 +66,6 @@ h4 {
 
 p {
   margin: 15px 0;
-  text-align:justify;
 }
 
 a {
@@ -109,7 +108,6 @@ strong, b {
 
 img {
   max-width: 100%;
-  height: auto;
 }
 
 // Fixes images in popup boxes from Google Translate
@@ -120,6 +118,16 @@ img {
 .date {
   font-style: italic;
   color: $gray;
+}
+
+// Specify the color of the selection
+::-moz-selection {
+  color: $black;
+  background: $lightGray;
+}
+::selection {
+  color: $black;
+  background: $lightGray;
 }
 
 // Nicolas Gallagher's micro clearfix hack
@@ -186,7 +194,7 @@ img {
   margin: 0;
   color: $darkGray;
   cursor: pointer;
-  font-family: $Vazir;
+  font-family: $helveticaNeue;
   font-weight: 300;
   font-size: 28px;
   letter-spacing: 1px;
@@ -205,7 +213,7 @@ img {
 nav {
   float: right;
   margin-top: 23px; // @TODO: Vertically middle align
-  font-family: $Vazir;
+  font-family: $helveticaNeue;
   font-size: 18px;
 
   @include mobile {
@@ -284,16 +292,7 @@ video {
   text-align: center;
 }
 
-        @font-face {
-            font-family: 'Vazir';
-            src: url('fonts/Vazir.eot');
-            src: url('fonts/Vazir.eot?#iefix') format('embedded-opentype'),
-            url('fonts/Vazir.woff2') format('woff2'),
-            url('fonts/Vazir.woff') format('woff'),
-            url('fonts/Vazir.ttf') format('truetype');
-            font-weight: normal;
-            font-style: normal;
-        }
+@font-face{font-family:'Vazir';src:url(fonts/Vazir.eot);src:url(fonts/Vazir.eot?#iefix) format("embedded-opentype"),url(fonts/Vazir.woff2) format("woff2"),url(fonts/Vazir.woff) format("woff"),url(fonts/Vazir.ttf) format("truetype");font-weight:400;font-style:normal}
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
