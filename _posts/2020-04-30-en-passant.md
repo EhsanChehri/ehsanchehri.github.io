@@ -19,8 +19,6 @@ title: آن پاسان یا en passant در شطرنج
 
 <b>مطالب مرتبط</b>
 
-**مطالب مرتبط**
-
 [Zwischenzug یا حرکت بینابینی](https://ehsanchehri.github.io/Zwischenzug)
 
 [حرکت زوگزوانگ یا Zugzwang](https://ehsanchehri.github.io/Zugzwang)
