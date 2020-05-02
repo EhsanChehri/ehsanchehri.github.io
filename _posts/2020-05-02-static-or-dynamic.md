@@ -11,7 +11,7 @@ title: شطرنج دینامیک و مباحث مرتبط
 
 منتشر شده در [کانال فدراسیون شطرنج ایران](https://www.aparat.com/iranchessfederation)
 
-**مطالب مرتبط**
+<b>مطالب مرتبط</b>
 
 [منابع و سایت‌های مورد نیاز شطرنج](https://ehsanchehri.github.io/buy-backlinks)
 
