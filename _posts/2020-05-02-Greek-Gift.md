@@ -13,7 +13,7 @@ title: هدیه یونانی یا Greek Gift در شطرنج
 
 برای انجام تمرینات هدیه یونانی به [اینجا](https://lichess.org/practice/intermediate-tactics/greek-gift/s5pLU7Of/uCkLsFs1) مراجعه کنید
 
-**مطالب مرتبط**
+<b>مطالب مرتبط</b>
 
 [مهره آچمز یا pin](https://ehsanchehri.github.io/pin)
 
