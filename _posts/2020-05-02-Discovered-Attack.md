@@ -17,7 +17,7 @@ title: حمله برخاست در شطرنج
 
 برای حل تمرینات حمله برخاست [اینجا](https://lichess.org/practice/basic-tactics/discovered-attacks/MnsJEWnI/vV50tWGB) کلیک کنید
 
-**مطالب مرتبط**
+<b>مطالب مرتبط</b>
 
 [مهره آچمز یا pin](https://ehsanchehri.github.io/pin)
 
