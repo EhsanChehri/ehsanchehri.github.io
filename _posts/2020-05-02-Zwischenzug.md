@@ -15,7 +15,7 @@ title: Zwischenzug یا حرکت بینابینی در شطرنج
 
 برای حل تمرینات بینابینی به [اینجا](https://lichess.org/practice/basic-tactics/zwischenzug/ITWY4GN2/CSGoTH5f) مراجعه کنید
 
-**مطالب مرتبط**
+<b>مطالب مرتبط</b>
 
 [مهره آچمز یا pin](https://ehsanchehri.github.io/pin)
 
