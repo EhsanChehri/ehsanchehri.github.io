@@ -210,7 +210,5 @@ video {
 
 @font-face{font-family:Vazir;src:url(/fonts/Vazir.eot);src:url(/fonts/Vazir.eot?#iefix) format("embedded-opentype"),url(/fonts/Vazir.woff) format("woff"),url(/fonts/Vazir.woff2) format("woff2"),url(/fonts/Vazir.ttf) format("truetype");font-weight:400;font-style:normal}.Vazir{font-family:Vazir!important}a,blockquote,body,button,h1,h2,h3,h4,h5,h6,input,li,p,textarea{font-family:Vazir!important}p,li{text-align:justify}
 
-// Settled on moving the import of syntax highlighting to the bottom of the CSS
-// ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
 @import "svg-icons";
