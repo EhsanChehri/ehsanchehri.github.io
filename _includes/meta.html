@@ -11,7 +11,16 @@
 <meta property="og:image" content="https://ehsanchehri.github.io/images/ehsaider.png">
 <meta name="twitter:card" content="summary">
 <meta property="twitter:image" content="https://ehsanchehri.github.io/images/ehsaider.png">
-{% seo %}
+{% if page.title %}
+<meta content="article" property="og:type">
+{% else %}
+<meta content="website" property="og:type">
+{% endif %}
+{% if page.description %}
+<meta content="{{ page.description }}" property="og:description">
+{% else %}
+<meta content="{{ site.description }}" property="og:description">
+{% endif %}
 {% if page.canonical_url != nil %}
 <link rel="alternate" href="{{ page.canonical_url }}" hreflang="fa-ir">
 {% else %}
