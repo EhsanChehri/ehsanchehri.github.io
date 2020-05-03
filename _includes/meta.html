@@ -23,6 +23,7 @@
 <meta name="description" content="{{ site.description }}">
 <meta property="og:description" content="{{ site.description }}" />
 {% endif %}
+{% if page.date %}
 <meta content="{{ page.date | date_to_xmlschema }}" property="article:published_time">
 {% endif %}
 {% if page.canonical_url != nil %}
