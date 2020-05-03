@@ -2,12 +2,12 @@
 layout: default
 ---
 
-<article class="post" itemscope itemtype="https://schema.org/CreativeWork">
-<h1 itemprop="headline">{{ page.title }}</h1>
-<div class="date" itemprop="datePublished">
-{{ page.date | date: "%Y-%m-%d" }}
+<article class="post" itemscope itemtype="https://schema.org/BlogPosting">
+<h1 itemprop="name headline">{{ page.title }}</h1>
+<time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time>
+<meta content="{{ modified | date_to_xmlschema }}" itemprop="dateModified">
 </div>
-<div class="entry" itemprop="text">
+<div class="entry">
 {{ content }}
 </div>
 </article>
