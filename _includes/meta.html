@@ -21,6 +21,9 @@
 {% else %}
 <meta content="{{ site.description }}" property="og:description">
 {% endif %}
+{% if page.date %}
+<meta content="{{ page.date | date_to_xmlschema }}" property="article:published_time">
+{% endif %}
 {% if page.canonical_url != nil %}
 <link rel="alternate" href="{{ page.canonical_url }}" hreflang="fa-ir">
 {% else %}
