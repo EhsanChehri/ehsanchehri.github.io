@@ -1,6 +1,16 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>{% if page.title %}{{ page.title }}{% else %}{{ site.name }}{% endif %}</title>
+<meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.name }}{% endif %}">
+<meta name="author" content="ehsan chehri">
+<meta property="og:locale" content="fa_IR">
+<meta name="twitter:site" content="@ehsanchehri">
+<meta name="twitter:creator" content="@ehsanchehri">
+<meta property="og:url" content="{{ page.canonical_url }}">
+<meta property="og:site_name" content="{{ site.name }}">
+<meta property="og:image" content="https://ehsanchehri.github.io/images/ehsaider.png">
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:image" content="https://ehsanchehri.github.io/images/ehsaider.png">
 {% seo %}
 {% if page.canonical_url != nil %}
 <link rel="alternate" href="{{ page.canonical_url }}" hreflang="fa-ir">
