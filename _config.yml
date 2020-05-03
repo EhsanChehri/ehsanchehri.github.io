@@ -25,23 +25,6 @@ gems:
   - jekyll-sitemap
   - jekyll-feed
 
-plugins:
-  - jekyll-seo-tag
-
-lang: fa_IR
-author: ehsanchehri
-logo: https://ehsanchehri.github.io/images/ehsaider.png
-
-defaults:
-  - scope:
-      path: ""
-    values:
-      image: https://ehsanchehri.github.io/images/ehsaider.png
-
-twitter:
-  username: ehsanchehri
-  card: summary
-
 exclude:
   - Gemfile
   - Gemfile.lock
