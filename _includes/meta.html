@@ -8,20 +8,18 @@
 <meta name="twitter:creator" content="@ehsanchehri">
 <meta property="og:url" content="{{ site.url }}{{ page.url }}">
 <meta property="og:site_name" content="{{ site.name }}">
-<meta property="og:image" content="https://ehsanchehri.github.io/images/ehsaider.png">
 <meta name="twitter:card" content="summary">
-<meta property="twitter:image" content="https://ehsanchehri.github.io/images/ehsaider.png">
 {% if page.title %}
 <meta content="article" property="og:type">
 {% else %}
 <meta content="website" property="og:type">
 {% endif %}
 {% if page.excerpt %}
-<meta name="description" content="{{ page.excerpt| strip_html }}" />
-<meta property="og:description" content="{{ page.excerpt| strip_html }}" />
+<meta name="description" content="{{ page.excerpt| strip_html }}">
+<meta property="og:description" content="{{ page.excerpt| strip_html }}">
 {% else %}
 <meta name="description" content="{{ site.description }}">
-<meta property="og:description" content="{{ site.description }}" />
+<meta property="og:description" content="{{ site.description }}">
 {% endif %}
 {% if page.date %}
 <meta content="{{ page.date | date_to_xmlschema }}" property="article:published_time">
