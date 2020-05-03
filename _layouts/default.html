@@ -1,7 +1,10 @@
 <!DOCTYPE html>
 <html dir="rtl" lang="fa">
 <head>
+{% if page.title %}
 <title>{{ page.title }}</title>
+{% endif %}
+<title>{{ site.name }}</title>
 {% seo title=false %}
 {% include meta.html %}
 <link rel="stylesheet" type="text/css" href="style.css">
