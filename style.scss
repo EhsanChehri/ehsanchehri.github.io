@@ -1,7 +1,13 @@
 ---
 ---
 
-@font-face{font-family:'Vazir';src:url(fonts/Vazir.eot);src:url(fonts/Vazir.eot?#iefix) format("embedded-opentype"),url(fonts/Vazir.woff2) format("woff2"),url(fonts/Vazir.woff) format("woff"),url(fonts/Vazir.ttf) format("truetype");font-weight:400;font-style:normal}
+@font-face {
+  font-family: 'Vazir';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Vazir'), local('Vazir'), url(fonts/Vazir.woff2) format('woff2');
+  font-display: swap;
+}
 
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
