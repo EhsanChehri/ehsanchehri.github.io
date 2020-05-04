@@ -15,7 +15,7 @@ title: سلام جکیل!
 
 ---
 
-برای افزودن متاهای ضروری سئو مثل کنونیال از [جکیل سئو تگ](https://github.com/jekyll/jekyll-seo-tag) استفاده کردم
+برای افزودن کنونیکال از کدهای آماده [اینجا](https://github.com/EhsanChehri/ehsanchehri.github.io/blob/master/_includes/meta.html) استفاده کنید
 
 و نشانه گذاری متن با مارک دون انجام میشه که [این لینک](https://commonmark.org/help/) میتونه کمکتون کنه
 
