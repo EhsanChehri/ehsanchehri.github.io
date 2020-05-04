@@ -28,7 +28,8 @@
 <div class="wrapper-footer">
 <div class="container">
 <footer class="footer">
-{% include svg-icons.html %}
+{% if site.footer-links.rss %}<a href="feed.xml"><i class="svg-icon rss"></i></a>{% endif %}
+{% if site.footer-links.twitter %}<a href="https://twitter.com/ehsanchehri"><i class="svg-icon twitter"></i></a>{% endif %}
 </footer>
 </div>
 </div>
