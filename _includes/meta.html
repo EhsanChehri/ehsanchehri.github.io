@@ -2,9 +2,6 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>{% if page.title %}{{ page.title }}{% else %}{{ site.name }}{% endif %}</title>
 <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
-{% if page.date %}
-<meta content="{{ page.date | date_to_xmlschema }}" property="article:published_time">
-{% endif %}
 {% if page.canonical_url != nil %}
 <link rel="canonical" href="{{ page.canonical_url }}">
 <link rel="alternate" href="{{ page.canonical_url }}" hreflang="fa-ir">
