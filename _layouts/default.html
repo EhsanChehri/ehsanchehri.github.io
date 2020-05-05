@@ -10,7 +10,7 @@
 {% else %}
 <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
 {% endif %}
-<link rel="stylesheet" href="style.css">
+<link rel='stylesheet' href='{{ site.url }}style.css' media='all'>
 </head>
 <body>
 <div class="wrapper-masthead">
