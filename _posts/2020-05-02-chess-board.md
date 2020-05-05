@@ -17,12 +17,21 @@ title: چیدمان صفحه شطرنج
 
 <hr>
 
-**گوشه**
+**گوشه صفحه شطرنج**
 
 ![گوشه](https://ehsanchehri.github.io/images/corner.PNG)
 
 <hr>
 
-**مرکز**
+**مرکز صفحه شطرنج**
 
 ![مرکز](https://ehsanchehri.github.io/images/center.PNG)
+
+<hr>
+
+**حاشیه صفحه شطرنج**
+
+![حاشیه](https://ehsanchehri.github.io/images/margin.PNG)
+
+<hr>
+
