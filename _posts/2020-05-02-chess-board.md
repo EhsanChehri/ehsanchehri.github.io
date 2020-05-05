@@ -41,3 +41,9 @@ title: چیدمان صفحه شطرنج
 
 <hr>
 
+**قطر صفحه شطرنج**
+
+![قطر](https://ehsanchehri.github.io/images/diameter.PNG)
+
+<hr>
+
