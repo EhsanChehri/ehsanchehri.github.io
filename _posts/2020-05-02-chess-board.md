@@ -59,3 +59,6 @@ title: چیدمان صفحه شطرنج
 
 <hr>
 
+**جناح صفحه شطرنج**
+
+![جناح](https://ehsanchehri.github.io/images/faction.PNG)
