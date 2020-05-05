@@ -47,3 +47,9 @@ title: چیدمان صفحه شطرنج
 
 <hr>
 
+**عرض یا ردیف در صفحه شطرنج**
+
+![عرض](https://ehsanchehri.github.io/images/width.PNG)
+
+<hr>
+
