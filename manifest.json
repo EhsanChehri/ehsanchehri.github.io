@@ -8,7 +8,7 @@
   "theme_color": "#22B14C",
 	"display": "standalone",
 	"orientation": "ehsaider",
-	"start_url": "https://ehsanchehri.github.io/",
+	"start_url": ".",
 	"icons": [
 
    {
