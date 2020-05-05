@@ -17,7 +17,7 @@
       "type": "image/png"
     },
     {
-      "src": "/images/ehsaider.png",
+      "src": "/images/ehsaider-512.png",
       "sizes": "512x512",
       "type": "image/png"
     },
@@ -40,7 +40,7 @@
 			"density": "2.0"
 		},
 		{
-			"src": "/images/ehsaider.png",
+			"src": "/images/ehsaider-512.png",
 			"sizes": "152x152",
 			"type": "image\/png",
 			"density": "3.0"
