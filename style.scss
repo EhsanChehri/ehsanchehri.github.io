@@ -173,8 +173,9 @@ strong, b {
   font-weight: bold;
 }
 
-img {
-  max-width: 100%;
+amp-img {
+   height: auto;
+   width:100%;
 }
 
 .clearfix:before,
