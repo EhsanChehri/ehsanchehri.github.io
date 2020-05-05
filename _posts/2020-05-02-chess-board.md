@@ -11,7 +11,7 @@ title: چیدمان صفحه شطرنج
 
 به اینصورت که وزیر در خانه همرنگ خودش قرار میگیره و اگه این نکته رو فراموش نکنید همیشه چینش مهره ها درست درمیاد
 
-![صفحه شطرنج](https://ehsanchehri.github.io/images/chess-board.PNG)
+<amp-img src="https://ehsanchehri.github.io/images/chess-board.PNG" alt="صقحه شطرنج" width="640" height="500" layout="responsive"></amp-img>
 
 در این تصویر چینش استاندارد مهره‌های شطرنج رو میبینیم
 
@@ -19,46 +19,46 @@ title: چیدمان صفحه شطرنج
 
 **گوشه صفحه شطرنج**
 
-![گوشه](https://ehsanchehri.github.io/images/corner.PNG)
+<amp-img src="https://ehsanchehri.github.io/images/corner.PNG" alt="گوشه" width="640" height="500" layout="responsive"></amp-img>
 
 <hr>
 
 **مرکز صفحه شطرنج**
 
-![مرکز](https://ehsanchehri.github.io/images/center.PNG)
+<amp-img src="https://ehsanchehri.github.io/images/center.PNG" alt="مرکز" width="640" height="500" layout="responsive"></amp-img>
 
 <hr>
 
 **حاشیه صفحه شطرنج**
 
-![حاشیه](https://ehsanchehri.github.io/images/margin.PNG)
+<amp-img src="https://ehsanchehri.github.io/images/margin.PNG" alt="حاشیه" width="640" height="500" layout="responsive"></amp-img>
 
 <hr>
 
 **مرز صفحه شطرنج**
 
-![مرز](https://ehsanchehri.github.io/images/border.PNG)
+<amp-img src="https://ehsanchehri.github.io/images/border.PNG" alt="مرز" width="640" height="500" layout="responsive"></amp-img>
 
 <hr>
 
 **قطر صفحه شطرنج**
 
-![قطر](https://ehsanchehri.github.io/images/diameter.PNG)
+<amp-img src="https://ehsanchehri.github.io/images/diameter.PNG" alt="قطر" width="640" height="500" layout="responsive"></amp-img>
 
 <hr>
 
 **عرض یا ردیف در صفحه شطرنج**
 
-![عرض](https://ehsanchehri.github.io/images/width.PNG)
+<amp-img src="https://ehsanchehri.github.io/images/width.PNG" alt="عرض" width="640" height="500" layout="responsive"></amp-img>
 
 <hr>
 
 **ستون صفحه شطرنج**
 
-![ستون](https://ehsanchehri.github.io/images/column.PNG)
+<amp-img src="https://ehsanchehri.github.io/images/column.PNG" alt="ستون" width="640" height="500" layout="responsive"></amp-img>
 
 <hr>
 
 **جناح صفحه شطرنج**
 
-![جناح](https://ehsanchehri.github.io/images/faction.PNG)
+<amp-img src="https://ehsanchehri.github.io/images/faction.PNG" alt="جناح" width="640" height="500" layout="responsive"></amp-img>
