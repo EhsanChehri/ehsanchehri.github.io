@@ -7,7 +7,7 @@ title: آن پاسان یا en passant در شطرنج
 
 دقت کنید باید هردو پیاده در یک حرکت هم ردیف بشن و اگه کنار همدیگه قرار نگیرن یا در دو حرکت انجام بشه امکانش وجود نداره
 
-<amp-img src="/images/en-passant.PNG" alt="آن پاسان" height="360" width="640" layout="responsive"></amp-img>
+<amp-img src="/images/en-passant.PNG" alt="آن پاسان" width="640" height="500" layout="responsive"></amp-img>
 
 به این تصویر نگاه کنید. مهره سفید به خانه d5 رسیده و حریف میخواد سرباز خودشو رد کنه پس شامل آن پاسان میشه و بازیکن سفید میتونه با حرکت مهره پیاده به e6 پیاده e5 رو بگیره
 
