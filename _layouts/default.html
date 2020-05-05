@@ -7,10 +7,8 @@
 <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
 {% if page.canonical_url != nil %}
 <link rel="canonical" href="{{ page.canonical_url }}">
-<link rel="alternate" href="{{ page.canonical_url }}" hreflang="fa-ir">
 {% else %}
 <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
-<link rel="alternate" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}" hreflang="fa-ir">
 {% endif %}
 <link rel="stylesheet" href="style.css">
 </head>
