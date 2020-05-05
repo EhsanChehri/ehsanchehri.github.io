@@ -20,3 +20,9 @@ title: چیدمان صفحه شطرنج
 **گوشه**
 
 ![گوشه](https://ehsanchehri.github.io/images/corner.PNG)
+
+<hr>
+
+**مرکز**
+
+![مرکز](https://ehsanchehri.github.io/images/center.PNG)
