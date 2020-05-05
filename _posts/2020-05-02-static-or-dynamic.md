@@ -7,9 +7,7 @@ title: شطرنج دینامیک و مباحث مرتبط
 
 در این ویدیو استاد مهران حق شناس بیشتر درباره شطرنج پویا و دینامیک صحبت میکنه
 
-<amp-video controls width="640" height="360" layout="responsive"><source src="https://hw20.cdn.asset.aparat.com/aparat-video/9920c7acdf0d087cd637363971f7724317883712-360p.mp4" type="video/mp4"></amp-video>
-
-<video controls="controls"><source type="video/mp4" src="https://hw20.cdn.asset.aparat.com/aparat-video/9920c7acdf0d087cd637363971f7724317883712-360p.mp4"></video>
+<amp-video controls="controls" width="640" height="360" layout="responsive"><source src="https://hw20.cdn.asset.aparat.com/aparat-video/9920c7acdf0d087cd637363971f7724317883712-360p.mp4" type="video/mp4"></amp-video>
 
 منتشر شده در [کانال فدراسیون شطرنج ایران](https://www.aparat.com/iranchessfederation)
 
