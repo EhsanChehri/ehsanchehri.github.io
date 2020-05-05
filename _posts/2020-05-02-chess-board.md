@@ -35,3 +35,9 @@ title: چیدمان صفحه شطرنج
 
 <hr>
 
+**مرز صفحه شطرنج**
+
+![مرز](https://ehsanchehri.github.io/images/border.PNG)
+
+<hr>
+
