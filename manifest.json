@@ -1,53 +1,21 @@
 {
-	"lang": "id",
-	"dir": "rtl",
-	"name": "وبلاگ احسان چهری",
-	"short_name": "وبلاگ احسان چهری",
-  "description": "روزنوشت‌ها و یادداشت‌های شطرنجی به قلم احسان چهری",
-	"background_color": "#ffffff",
+  "name": "وبلاگ احسان چهری",
+  "short_name": "وبلاگ احسان چهری",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#ffffff",
   "theme_color": "#22B14C",
-	"display": "standalone",
-	"orientation": "ehsaider",
-	"start_url": ".",
-	"icons": [
-
-   {
+  "icons": [
+    {
       "src": "/images/ehsaider-192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "/images/ehsaider-512.png",
-      "sizes": "512x512",
-      "type": "image/png"
-    },
-		{
-			"src": "/images/ehsaider-60.png",
-			"sizes": "60x60",
-			"type": "image\/png",
-			"density": "1.0"
-		},
-		{
-			"src": "/images/ehsaider-76.png",
-			"sizes": "76x76",
-			"type": "image\/png",
-			"density": "1.5"
-		},
-		{
-			"src": "/images/ehsaider-120.png",
-			"sizes": "120x120",
-			"type": "image\/png",
-			"density": "2.0"
-		},
-		{
-			"src": "/images/ehsaider-512.png",
-			"sizes": "152x152",
-			"type": "image\/png",
-			"density": "3.0"
-		},
-		{
-			"src": "/images/ehsaider-144.png",
-			"sizes": "any"
-		}
-	]
+        "src": "/images/ehsaider-512.png",
+        "sizes": "512x512",
+        "type": "image/png"
+    }
+  ]
 }
