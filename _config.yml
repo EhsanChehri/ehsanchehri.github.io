@@ -2,7 +2,7 @@ name: وبلاگ احسان چهری
 
 description: روزنوشت‌ها و یادداشت‌های شطرنجی به قلم احسان چهری
 
-avatar: {{ site.url }}/images/ehsaider.png
+avatar: https://ehsanchehri.github.io/images/ehsaider.png
 
 permalink: /:title
 
