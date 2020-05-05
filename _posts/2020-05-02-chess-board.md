@@ -14,3 +14,7 @@ title: چیدمان صفحه شطرنج
 ![صفحه شطرنج](https://ehsanchehri.github.io/images/chess-board.PNG)
 
 در این تصویر چینش استاندارد مهره‌های شطرنج رو میبینیم
+
+**گوشه**
+
+![گوشه](https://ehsanchehri.github.io/images/corner.PNG)
