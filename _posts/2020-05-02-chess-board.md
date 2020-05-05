@@ -53,3 +53,9 @@ title: چیدمان صفحه شطرنج
 
 <hr>
 
+**ستون صفحه شطرنج**
+
+![ستون](https://ehsanchehri.github.io/images/column.PNG)
+
+<hr>
+
