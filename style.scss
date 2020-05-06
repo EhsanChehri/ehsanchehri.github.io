@@ -5,7 +5,7 @@
   font-family: 'Vazir';
   font-style: normal;
   font-weight: 400;
-  src: local('Vazir'), local('Vazir'), url(https://ehsanchehri.github.io/fonts/Vazir.woff2) format('woff2');
+  src: local('Vazir'), local('Vazir'), url({{ site.url }}/fonts/Vazir.woff2) format('woff2');
   font-display: swap;
 }
 
