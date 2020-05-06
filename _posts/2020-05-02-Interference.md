@@ -9,7 +9,7 @@ title: تاکتیک انسداد یا تداخل در شطرنج
 
 از بین سایر تاکتیک های شطرنج این مورد کمتر پیش میاد و درصورتی میتونه مفید باشه که مهره قربانی کم ارزش تر از مهره مهاجم حریف باشه
 
-<amp-img src="https://ehsanchehri.github.io/images/Interference.PNG" alt="تداخل شطرنج" width="640" height="500" layout="responsive"></amp-img>
+<img src="https://ehsanchehri.github.io/images/Interference.PNG" alt="تداخل شطرنج">
 
 در تصویر بالا میبینیم فیل سیاه با رفتن به خانه b5 میتونه ارتباط وزیر و فیل سفید رو قطع کنه و همزمان توسط رخ b1 دفاع بشه
 
