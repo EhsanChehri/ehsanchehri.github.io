@@ -175,7 +175,6 @@ strong, b {
 
 img {
   width: 100%;
-  height: auto;
 }
 
 video {
@@ -203,19 +202,6 @@ video {
 
   @include mobile {
     text-align: right;
-  }
-}
-
-.site-avatar {
-  float: left;
-  width: 70px;
-  height: 70px;
-  margin-right: 15px;
-
-  @include mobile {
-    float: none;
-    display: block;
-    margin: 0 auto;
   }
 }
 
