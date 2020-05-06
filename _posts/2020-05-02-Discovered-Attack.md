@@ -11,7 +11,7 @@ title: حمله برخاست در شطرنج
 
 برای دوستانی که از سایتای خارجی استفاده میکنن Discovered Attack همون حمله برخاسته
 
-<img src="{{ site.url }}/images/Discovered-Attack.PNG" alt="حمله برخاست">
+<img src="https://ehsanchehri.github.io/images/Discovered-Attack.PNG" alt="حمله برخاست">
 
 در این تصویر میبینیم با جابجایی مهره اسب به خانه e5 میتونیم کیش برخاست کنیم و بعد از حرکت اجباری حریف وزیر سیاه رو میگیریم
 
