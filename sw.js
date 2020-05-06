@@ -30,14 +30,15 @@ self.addEventListener('fetch',event => {
     }));
 });
 
-self.addEventListener('activate',event => {
-  var chacheWhiteList=[CACHE_NAME];
+self.addEventListener('activate', function(event) {
   event.waitUntil(
-    caches.keys().then(keyList => {
-        return Promise.all(keyList.map(key => {
-          if (chacheWhiteList.indexOf(key) === -1)
-            return caches.delete(key);
-        }));
-      })
+    caches.keys().then(function(CACHE_NAME) {
+      return Promise.all(
+        cacheNames.filter(function(CACHE_NAME) {
+        }).map(function(CACHE_NAME) {
+          return caches.delete(CACHE_NAME);
+        })
+      );
+    })
   );
 });
