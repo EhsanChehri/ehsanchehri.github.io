@@ -11,7 +11,7 @@ title: چیدمان صفحه شطرنج
 
 به اینصورت که وزیر در خانه همرنگ خودش قرار میگیره و اگه این نکته رو فراموش نکنید همیشه چینش مهره ها درست درمیاد
 
-<amp-img src="https://ehsanchehri.github.io/images/chess-board.PNG" alt="صقحه شطرنج" width="640" height="500" layout="responsive"></amp-img>
+<img src="https://ehsanchehri.github.io/images/chess-board.PNG" alt="صفحه شطرنج">
 
 در این تصویر چینش استاندارد مهره‌های شطرنج رو میبینیم
 
@@ -19,46 +19,46 @@ title: چیدمان صفحه شطرنج
 
 **گوشه صفحه شطرنج**
 
-<amp-img src="https://ehsanchehri.github.io/images/corner.PNG" alt="گوشه" width="640" height="500" layout="responsive"></amp-img>
+<img src="https://ehsanchehri.github.io/images/corner.PNG" alt="گوشه صفحه شطرنج">
 
 <hr>
 
 **مرکز صفحه شطرنج**
 
-<amp-img src="https://ehsanchehri.github.io/images/center.PNG" alt="مرکز" width="640" height="500" layout="responsive"></amp-img>
+<img src="https://ehsanchehri.github.io/images/center.PNG" alt="مرکز صفحه شطرنج">
 
 <hr>
 
 **حاشیه صفحه شطرنج**
 
-<amp-img src="https://ehsanchehri.github.io/images/margin.PNG" alt="حاشیه" width="640" height="500" layout="responsive"></amp-img>
+<img src="https://ehsanchehri.github.io/images/margin.PNG" alt="حاشیه صفحه شطرنج">
 
 <hr>
 
 **مرز صفحه شطرنج**
 
-<amp-img src="https://ehsanchehri.github.io/images/border.PNG" alt="مرز" width="640" height="500" layout="responsive"></amp-img>
+<img src="https://ehsanchehri.github.io/images/border.PNG" alt="مرز صفحه شطرنج">
 
 <hr>
 
 **قطر صفحه شطرنج**
 
-<amp-img src="https://ehsanchehri.github.io/images/diameter.PNG" alt="قطر" width="640" height="500" layout="responsive"></amp-img>
+<img src="https://ehsanchehri.github.io/images/diameter.PNG" alt="قطر صفحه شطرنج">
 
 <hr>
 
 **عرض یا ردیف در صفحه شطرنج**
 
-<amp-img src="https://ehsanchehri.github.io/images/width.PNG" alt="عرض" width="640" height="500" layout="responsive"></amp-img>
+<img src="https://ehsanchehri.github.io/images/width.PNG" alt="عرض صفحه شطرنج">
 
 <hr>
 
 **ستون صفحه شطرنج**
 
-<amp-img src="https://ehsanchehri.github.io/images/column.PNG" alt="ستون" width="640" height="500" layout="responsive"></amp-img>
+<img src="https://ehsanchehri.github.io/images/column.PNG" alt="ستون صفحه شطرنج">
 
 <hr>
 
 **جناح صفحه شطرنج**
 
-<amp-img src="https://ehsanchehri.github.io/images/faction.PNG" alt="جناح" width="640" height="500" layout="responsive"></amp-img>
+<img src="https://ehsanchehri.github.io/images/faction.PNG" alt="جناح صفحه شطرنج">
