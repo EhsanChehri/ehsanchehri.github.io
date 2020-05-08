@@ -1,16 +1,16 @@
 <!DOCTYPE html>
 <html dir="rtl" lang="fa">
 <head>
+<title>{% if page.title %}{{ page.title }}{% else %}{{ site.name }}{% endif %}</title>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>{% if page.title %}{{ page.title }}{% else %}{{ site.name }}{% endif %}</title>
 <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
 {% if page.canonical_url != nil %}
 <link rel="canonical" href="{{ page.canonical_url }}">
 {% else %}
 <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
 {% endif %}
-<link rel="stylesheet" href="https://ehsanchehri.github.io/style.css" media="all">
+<link rel="stylesheet" href="https://ehsanchehri.github.io/style.css">
 </head>
 <body>
 <div class="wrapper-masthead">
