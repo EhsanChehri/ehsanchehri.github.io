@@ -258,6 +258,7 @@ nav {
   margin-top: 23px;
   font-family: $Vazir;
   font-size: 18px;
+  direction: rtl;
 
   @include mobile {
     float: none;
