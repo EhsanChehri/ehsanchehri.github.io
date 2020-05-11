@@ -7,7 +7,7 @@ title: کیش دوگانه یا Double Check در شطرنج
 
 کیش دوگانه یکی از تکنیک های مناسب برای کیش و ماته و میتونه خیلی موثر باشه در بی حرکت کردن شاه حریف
 
-<img src="https://ehsanchehri.github.io/images/Double-Check.PNG" alt="کیش دوگانه">
+<img src="https://ehsaider.ir/images/Double-Check.PNG" alt="کیش دوگانه">
 
 در این تصویر میبینیم که اسب سفید با رفتن به خانه b6 میتونه همزمان خودش و رخ به شاه سیاه کیش بدن که بعد از رفتن شاه سیاه به خانه b8 رخ سفید میره a8 و سیاه کیش و مات میشه
 
@@ -15,28 +15,28 @@ title: کیش دوگانه یا Double Check در شطرنج
 
 <b>مطالب مرتبط</b>
 
-[مهره آچمز یا pin](https://ehsanchehri.github.io/pin)
+[مهره آچمز یا pin](https://ehsaider.ir/pin)
 
-[Zwischenzug یا حرکت بینابینی](https://ehsanchehri.github.io/Zwischenzug)
+[Zwischenzug یا حرکت بینابینی](https://ehsaider.ir/Zwischenzug)
 
-[حرکت زوگزوانگ یا Zugzwang](https://ehsanchehri.github.io/Zugzwang)
+[حرکت زوگزوانگ یا Zugzwang](https://ehsaider.ir/Zugzwang)
 
-[سیخ کباب یا Skewer](https://ehsanchehri.github.io/Skewer)
+[سیخ کباب یا Skewer](https://ehsaider.ir/Skewer)
 
-[اضافه بار یا Overloaded Pieces](https://ehsanchehri.github.io/Overloaded-Pieces)
+[اضافه بار یا Overloaded Pieces](https://ehsaider.ir/Overloaded-Pieces)
 
-[تاکتیک انسداد یا تداخل](https://ehsanchehri.github.io/Interference)
+[تاکتیک انسداد یا تداخل](https://ehsaider.ir/Interference)
 
-[هدیه یونانی یا Greek Gift](https://ehsanchehri.github.io/Greek-Gift)
+[هدیه یونانی یا Greek Gift](https://ehsaider.ir/Greek-Gift)
 
-[حمله برخاست](https://ehsanchehri.github.io/Discovered-Attack)
+[حمله برخاست](https://ehsaider.ir/Discovered-Attack)
 
-[حمله دوگانه یا چنگال](https://ehsanchehri.github.io/fork)
+[حمله دوگانه یا چنگال](https://ehsaider.ir/fork)
 
-[طعمه یا decoy در شطرنج](https://ehsanchehri.github.io/decoy)
+[طعمه یا decoy در شطرنج](https://ehsaider.ir/decoy)
 
-[طعمه یا decoy در شطرنج](https://ehsanchehri.github.io/decoy)
+[طعمه یا decoy در شطرنج](https://ehsaider.ir/decoy)
 
-[آن پاسان یا گرفتن در حین عبور](https://ehsanchehri.github.io/en-passant)
+[آن پاسان یا گرفتن در حین عبور](https://ehsaider.ir/en-passant)
 
-[قلعه رفتن یا حرکت شاه قلعه](https://ehsanchehri.github.io/castling)
+[قلعه رفتن یا حرکت شاه قلعه](https://ehsaider.ir/castling)
