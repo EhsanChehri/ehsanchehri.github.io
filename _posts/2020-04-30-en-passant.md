@@ -7,7 +7,7 @@ title: آن پاسان یا en passant در شطرنج
 
 دقت کنید باید هردو پیاده در یک حرکت هم ردیف بشن و اگه کنار همدیگه قرار نگیرن یا در دو حرکت انجام بشه امکانش وجود نداره
 
-<img src="https://ehsanchehri.github.io/images/en-passant.PNG" alt="آن پاسان">
+<img src="https://ehsaider.ir/images/en-passant.PNG" alt="آن پاسان">
 
 به این تصویر نگاه کنید. مهره سفید به خانه d5 رسیده و حریف میخواد سرباز خودشو رد کنه پس شامل آن پاسان میشه و بازیکن سفید میتونه با حرکت مهره پیاده به e6 پیاده e5 رو بگیره
 
@@ -19,26 +19,26 @@ title: آن پاسان یا en passant در شطرنج
 
 <b>مطالب مرتبط</b>
 
-[Zwischenzug یا حرکت بینابینی](https://ehsanchehri.github.io/Zwischenzug)
+[Zwischenzug یا حرکت بینابینی](https://ehsaider.ir/Zwischenzug)
 
-[حرکت زوگزوانگ یا Zugzwang](https://ehsanchehri.github.io/Zugzwang)
+[حرکت زوگزوانگ یا Zugzwang](https://ehsaider.ir/Zugzwang)
 
-[سیخ کباب یا Skewer](https://ehsanchehri.github.io/Skewer)
+[سیخ کباب یا Skewer](https://ehsaider.ir/Skewer)
 
-[اضافه بار یا Overloaded Pieces](https://ehsanchehri.github.io/Overloaded-Pieces)
+[اضافه بار یا Overloaded Pieces](https://ehsaider.ir/Overloaded-Pieces)
 
-[تاکتیک انسداد یا تداخل](https://ehsanchehri.github.io/Interference)
+[تاکتیک انسداد یا تداخل](https://ehsaider.ir/Interference)
 
-[هدیه یونانی یا Greek Gift](https://ehsanchehri.github.io/Greek-Gift)
+[هدیه یونانی یا Greek Gift](https://ehsaider.ir/Greek-Gift)
 
-[کیش دوگانه یا Double Check](https://ehsanchehri.github.io/Double-Check)
+[کیش دوگانه یا Double Check](https://ehsaider.ir/Double-Check)
 
-[حمله برخاست](https://ehsanchehri.github.io/Discovered-Attack)
+[حمله برخاست](https://ehsaider.ir/Discovered-Attack)
 
-[حمله دوگانه یا چنگال](https://ehsanchehri.github.io/fork)
+[حمله دوگانه یا چنگال](https://ehsaider.ir/fork)
 
-[طعمه یا decoy در شطرنج](https://ehsanchehri.github.io/decoy)
+[طعمه یا decoy در شطرنج](https://ehsaider.ir/decoy)
 
-[مهره آچمز یا pin](https://ehsanchehri.github.io/pin)
+[مهره آچمز یا pin](https://ehsaider.ir/pin)
 
-[قلعه رفتن یا حرکت شاه قلعه](https://ehsanchehri.github.io/castling)
+[قلعه رفتن یا حرکت شاه قلعه](https://ehsaider.ir/castling)
