@@ -7,7 +7,7 @@ title: اضافه بار یا Overloaded Pieces در شطرنج
 
 برای انجام وظیفعه اصلی هر مهره بهتره یک دفاع داشته باشه
 
-<img src="https://ehsanchehri.github.io/images/Overloaded-Pieces.PNG" alt="اضافه بار شطرنج">
+<img src="https://ehsaider.ir/images/Overloaded-Pieces.PNG" alt="اضافه بار شطرنج">
 
 در تصویر بالا میبینید پیاده f7 نمیتونه همزمان از اسب و فیل دفاع کنه و حریف از موقعیت استفاده میکنه به یکیشون حمله میکنه
 
@@ -15,26 +15,26 @@ title: اضافه بار یا Overloaded Pieces در شطرنج
 
 <b>مطالب مرتبط</b>
 
-[مهره آچمز یا pin](https://ehsanchehri.github.io/pin)
+[مهره آچمز یا pin](https://ehsaider.ir/pin)
 
-[Zwischenzug یا حرکت بینابینی](https://ehsanchehri.github.io/Zwischenzug)
+[Zwischenzug یا حرکت بینابینی](https://ehsaider.ir/Zwischenzug)
 
-[حرکت زوگزوانگ یا Zugzwang](https://ehsanchehri.github.io/Zugzwang)
+[حرکت زوگزوانگ یا Zugzwang](https://ehsaider.ir/Zugzwang)
 
-[سیخ کباب یا Skewer](https://ehsanchehri.github.io/Skewer)
+[سیخ کباب یا Skewer](https://ehsaider.ir/Skewer)
 
-[تاکتیک انسداد یا تداخل](https://ehsanchehri.github.io/Interference)
+[تاکتیک انسداد یا تداخل](https://ehsaider.ir/Interference)
 
-[هدیه یونانی یا Greek Gift](https://ehsanchehri.github.io/Greek-Gift)
+[هدیه یونانی یا Greek Gift](https://ehsaider.ir/Greek-Gift)
 
-[کیش دوگانه یا Double Check](https://ehsanchehri.github.io/Double-Check)
+[کیش دوگانه یا Double Check](https://ehsaider.ir/Double-Check)
 
-[حمله برخاست](https://ehsanchehri.github.io/Discovered-Attack)
+[حمله برخاست](https://ehsaider.ir/Discovered-Attack)
 
-[حمله دوگانه یا چنگال](https://ehsanchehri.github.io/fork)
+[حمله دوگانه یا چنگال](https://ehsaider.ir/fork)
 
-[طعمه یا decoy در شطرنج](https://ehsanchehri.github.io/decoy)
+[طعمه یا decoy در شطرنج](https://ehsaider.ir/decoy)
 
-[آن پاسان یا گرفتن در حین عبور](https://ehsanchehri.github.io/en-passant)
+[آن پاسان یا گرفتن در حین عبور](https://ehsaider.ir/en-passant)
 
-[قلعه رفتن یا حرکت شاه قلعه](https://ehsanchehri.github.io/castling)
+[قلعه رفتن یا حرکت شاه قلعه](https://ehsaider.ir/castling)
