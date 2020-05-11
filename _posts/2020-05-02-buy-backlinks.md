@@ -17,8 +17,8 @@ title: منابع و سایت های شطرنج مورد استفاده من
 
 <b>مطالب مرتبط</b>
 
-[شطرنج دینامیک](https://ehsanchehri.github.io/static-or-dynamic)
+[شطرنج دینامیک](https://ehsaider.ir/static-or-dynamic)
 
-[کانال‌های برتر شطرنج](https://ehsanchehri.github.io/aparat)
+[کانال‌های برتر شطرنج](https://ehsaider.ir/aparat)
 
-[برترین برنامه‌های آموزش شطرنج اندروید](https://ehsanchehri.github.io/404-error)
+[برترین برنامه‌های آموزش شطرنج اندروید](https://ehsaider.ir/404-error)
