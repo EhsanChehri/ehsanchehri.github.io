@@ -7,7 +7,7 @@ title: هدیه یونانی یا Greek Gift در شطرنج
 
 قربانی یونانی یکی از روش های حمله به شاه قلعه رفته‌ست و بهتره قبل از قلعه رفتن فیل مزاحم قلعه رفتن بشه
 
-<img src="https://ehsanchehri.github.io/images/Greek-Gift.PNG" alt="هدیه یونانی">
+<img src="https://ehsaider.ir/images/Greek-Gift.PNG" alt="هدیه یونانی">
 
 در این تصویر میبینید فیل سفید در خانه h7 قربانی میشه و شاه مجبوره بیاد بیرون
 
@@ -15,26 +15,26 @@ title: هدیه یونانی یا Greek Gift در شطرنج
 
 <b>مطالب مرتبط</b>
 
-[مهره آچمز یا pin](https://ehsanchehri.github.io/pin)
+[مهره آچمز یا pin](https://ehsaider.ir/pin)
 
-[Zwischenzug یا حرکت بینابینی](https://ehsanchehri.github.io/Zwischenzug)
+[Zwischenzug یا حرکت بینابینی](https://ehsaider.ir/Zwischenzug)
 
-[حرکت زوگزوانگ یا Zugzwang](https://ehsanchehri.github.io/Zugzwang)
+[حرکت زوگزوانگ یا Zugzwang](https://ehsaider.ir/Zugzwang)
 
-[سیخ کباب یا Skewer](https://ehsanchehri.github.io/Skewer)
+[سیخ کباب یا Skewer](https://ehsaider.ir/Skewer)
 
-[اضافه بار یا Overloaded Pieces](https://ehsanchehri.github.io/Overloaded-Pieces)
+[اضافه بار یا Overloaded Pieces](https://ehsaider.ir/Overloaded-Pieces)
 
-[تاکتیک انسداد یا تداخل](https://ehsanchehri.github.io/Interference)
+[تاکتیک انسداد یا تداخل](https://ehsaider.ir/Interference)
 
-[کیش دوگانه یا Double Check](https://ehsanchehri.github.io/Double-Check)
+[کیش دوگانه یا Double Check](https://ehsaider.ir/Double-Check)
 
-[حمله برخاست](https://ehsanchehri.github.io/Discovered-Attack)
+[حمله برخاست](https://ehsaider.ir/Discovered-Attack)
 
-[حمله دوگانه یا چنگال](https://ehsanchehri.github.io/fork)
+[حمله دوگانه یا چنگال](https://ehsaider.ir/fork)
 
-[طعمه یا decoy در شطرنج](https://ehsanchehri.github.io/decoy)
+[طعمه یا decoy در شطرنج](https://ehsaider.ir/decoy)
 
-[آن پاسان یا گرفتن در حین عبور](https://ehsanchehri.github.io/en-passant)
+[آن پاسان یا گرفتن در حین عبور](https://ehsaider.ir/en-passant)
 
-[قلعه رفتن یا حرکت شاه قلعه](https://ehsanchehri.github.io/castling)
+[قلعه رفتن یا حرکت شاه قلعه](https://ehsaider.ir/castling)
