@@ -9,7 +9,7 @@ title: Zwischenzug یا حرکت بینابینی در شطرنج
 
 اسم این تکنیک آلمانیه و در زبان انگلیسی بهش intermezzo، intermediate move و in-between move هم گفته میشه
 
-<img src="https://ehsanchehri.github.io/images/Zwischenzug.PNG" alt="حرکت بینابینی شطرنج">
+<img src="https://ehsaider.ir/images/Zwischenzug.PNG" alt="حرکت بینابینی شطرنج">
 
 در این تصویر میبینیم فیل سفید قلعه f1 رو تهدید کرده اما بازیکن سیاه میتونه با قلعه c1 به شاه حرف کیش بده و بعد از رفع کیش اجباری قلعه f8 رو تعویض کنه و بعدشم با وزیرش فیل مهاجم در خانه b4 رو بزنه
 
@@ -17,26 +17,26 @@ title: Zwischenzug یا حرکت بینابینی در شطرنج
 
 <b>مطالب مرتبط</b>
 
-[مهره آچمز یا pin](https://ehsanchehri.github.io/pin)
+[مهره آچمز یا pin](https://ehsaider.ir/pin)
 
-[حرکت زوگزوانگ یا Zugzwang](https://ehsanchehri.github.io/Zugzwang)
+[حرکت زوگزوانگ یا Zugzwang](https://ehsaider.ir/Zugzwang)
 
-[سیخ کباب یا Skewer](https://ehsanchehri.github.io/Skewer)
+[سیخ کباب یا Skewer](https://ehsaider.ir/Skewer)
 
-[اضافه بار یا Overloaded Pieces](https://ehsanchehri.github.io/Overloaded-Pieces)
+[اضافه بار یا Overloaded Pieces](https://ehsaider.ir/Overloaded-Pieces)
 
-[تاکتیک انسداد یا تداخل](https://ehsanchehri.github.io/Interference)
+[تاکتیک انسداد یا تداخل](https://ehsaider.ir/Interference)
 
-[هدیه یونانی یا Greek Gift](https://ehsanchehri.github.io/Greek-Gift)
+[هدیه یونانی یا Greek Gift](https://ehsaider.ir/Greek-Gift)
 
-[کیش دوگانه یا Double Check](https://ehsanchehri.github.io/Double-Check)
+[کیش دوگانه یا Double Check](https://ehsaider.ir/Double-Check)
 
-[حمله برخاست](https://ehsanchehri.github.io/Discovered-Attack)
+[حمله برخاست](https://ehsaider.ir/Discovered-Attack)
 
-[حمله دوگانه یا چنگال](https://ehsanchehri.github.io/fork)
+[حمله دوگانه یا چنگال](https://ehsaider.ir/fork)
 
-[طعمه یا decoy در شطرنج](https://ehsanchehri.github.io/decoy)
+[طعمه یا decoy در شطرنج](https://ehsaider.ir/decoy)
 
-[آن پاسان یا گرفتن در حین عبور](https://ehsanchehri.github.io/en-passant)
+[آن پاسان یا گرفتن در حین عبور](https://ehsaider.ir/en-passant)
 
-[قلعه رفتن یا حرکت شاه قلعه](https://ehsanchehri.github.io/castling)
+[قلعه رفتن یا حرکت شاه قلعه](https://ehsaider.ir/castling)
