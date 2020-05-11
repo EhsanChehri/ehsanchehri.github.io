@@ -11,7 +11,7 @@ title: حمله برخاست در شطرنج
 
 برای دوستانی که از سایتای خارجی استفاده میکنن Discovered Attack همون حمله برخاسته
 
-<img src="https://ehsanchehri.github.io/images/Discovered-Attack.PNG" alt="حمله برخاست">
+<img src="https://ehsaider.ir/images/Discovered-Attack.PNG" alt="حمله برخاست">
 
 در این تصویر میبینیم با جابجایی مهره اسب به خانه e5 میتونیم کیش برخاست کنیم و بعد از حرکت اجباری حریف وزیر سیاه رو میگیریم
 
@@ -19,26 +19,26 @@ title: حمله برخاست در شطرنج
 
 <b>مطالب مرتبط</b>
 
-[مهره آچمز یا pin](https://ehsanchehri.github.io/pin)
+[مهره آچمز یا pin](https://ehsaider.ir/pin)
 
-[Zwischenzug یا حرکت بینابینی](https://ehsanchehri.github.io/Zwischenzug)
+[Zwischenzug یا حرکت بینابینی](https://ehsaider.ir/Zwischenzug)
 
-[حرکت زوگزوانگ یا Zugzwang](https://ehsanchehri.github.io/Zugzwang)
+[حرکت زوگزوانگ یا Zugzwang](https://ehsaider.ir/Zugzwang)
 
-[سیخ کباب یا Skewer](https://ehsanchehri.github.io/Skewer)
+[سیخ کباب یا Skewer](https://ehsaider.ir/Skewer)
 
-[اضافه بار یا Overloaded Pieces](https://ehsanchehri.github.io/Overloaded-Pieces)
+[اضافه بار یا Overloaded Pieces](https://ehsaider.ir/Overloaded-Pieces)
 
-[تاکتیک انسداد یا تداخل](https://ehsanchehri.github.io/Interference)
+[تاکتیک انسداد یا تداخل](https://ehsaider.ir/Interference)
 
-[هدیه یونانی یا Greek Gift](https://ehsanchehri.github.io/Greek-Gift)
+[هدیه یونانی یا Greek Gift](https://ehsaider.ir/Greek-Gift)
 
-[کیش دوگانه یا Double Check](https://ehsanchehri.github.io/Double-Check)
+[کیش دوگانه یا Double Check](https://ehsaider.ir/Double-Check)
 
-[حمله دوگانه یا چنگال](https://ehsanchehri.github.io/fork)
+[حمله دوگانه یا چنگال](https://ehsaider.ir/fork)
 
-[طعمه یا decoy در شطرنج](https://ehsanchehri.github.io/decoy)
+[طعمه یا decoy در شطرنج](https://ehsaider.ir/decoy)
 
-[آن پاسان یا گرفتن در حین عبور](https://ehsanchehri.github.io/en-passant)
+[آن پاسان یا گرفتن در حین عبور](https://ehsaider.ir/en-passant)
 
-[قلعه رفتن یا حرکت شاه قلعه](https://ehsanchehri.github.io/castling)
+[قلعه رفتن یا حرکت شاه قلعه](https://ehsaider.ir/castling)
