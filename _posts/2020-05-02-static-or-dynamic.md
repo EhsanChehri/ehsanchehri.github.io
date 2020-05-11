@@ -13,8 +13,8 @@ title: شطرنج دینامیک و مباحث مرتبط
 
 <b>مطالب مرتبط</b>
 
-[منابع و سایت‌های مورد نیاز شطرنج](https://ehsanchehri.github.io/buy-backlinks)
+[منابع و سایت‌های مورد نیاز شطرنج](https://ehsaider.ir/buy-backlinks)
 
-[کانال‌های برتر شطرنج](https://ehsanchehri.github.io/aparat)
+[کانال‌های برتر شطرنج](https://ehsaider.ir/aparat)
 
-[برترین برنامه‌های آموزش شطرنج اندروید](https://ehsanchehri.github.io/404-error)
+[برترین برنامه‌های آموزش شطرنج اندروید](https://ehsaider.ir/404-error)
