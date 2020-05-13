@@ -6,6 +6,8 @@ avatar: https://ehsaider.ir/images/ehsaider.png
 
 url: https://ehsaider.ir
 
+enforce_ssl: ehsaider.ir
+
 baseurl: ""
 
 permalink: /:title
