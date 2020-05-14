@@ -10,7 +10,7 @@
 {% else %}
 <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
 {% endif %}
-<link rel="stylesheet" href="style.css">
+<link rel="stylesheet" href="{{ site.url }}/style.css">
 </head>
 <body>
 <div class="wrapper-masthead">
@@ -18,9 +18,9 @@
 <header class="masthead clearfix">
 <a title="{{ site.name }}" href="{{ site.url }}/" rel="home"><img src="images/ehsaider.png" alt="{{ site.name }}"></a>
 <nav>
-<a href="https://ehsaider.ir/">صفحه اول</a>
-<a href="/chess-tactics">تاکتیک‌ها</a>
-<a href="/buy-backlinks">منابع</a>
+<a href="{{ site.url }}/">صفحه اول</a>
+<a href="{{ site.url }}/chess-tactics">تاکتیک‌ها</a>
+<a href="{{ site.url }}/buy-backlinks">منابع</a>
 </nav>
 </header>
 </div>
