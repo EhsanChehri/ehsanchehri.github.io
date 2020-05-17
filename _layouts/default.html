@@ -14,7 +14,9 @@ layout: compress
 {% else %}
 <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
 {% endif %}
-<link rel="stylesheet" href="{{ site.url }}/style.css">
+<link rel="preload" href="{{ site.url }}/style.css" as="style" type="text/css" crossorigin="anonymous">
+<link rel="preload" href="{{ site.url }}/fonts/Vazir.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="stylesheet" href="{{ site.url }}/style.css" type="text/css" crossorigin="anonymous">
 </head>
 <body>
 <div class="wrapper-masthead">
