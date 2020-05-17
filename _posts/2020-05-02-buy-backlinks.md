@@ -20,5 +20,3 @@ title: منابع و سایت های شطرنج مورد استفاده من
 [شطرنج دینامیک](https://ehsaider.ir/static-or-dynamic)
 
 [کانال‌های برتر شطرنج](https://ehsaider.ir/aparat)
-
-[برترین برنامه‌های آموزش شطرنج اندروید](https://ehsaider.ir/404-error)
