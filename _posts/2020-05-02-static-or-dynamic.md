@@ -18,5 +18,3 @@ title: ویدیو آموزش شطرنج دینامیک
 [منابع و سایت‌های مورد نیاز شطرنج](https://ehsaider.ir/buy-backlinks)
 
 [کانال‌های برتر شطرنج](https://ehsaider.ir/aparat)
-
-[برترین برنامه‌های آموزش شطرنج اندروید](https://ehsaider.ir/404-error)
