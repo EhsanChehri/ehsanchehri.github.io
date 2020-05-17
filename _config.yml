@@ -23,9 +23,9 @@ kramdown:
     css_class: 'highlight'
 
 compress_html:
-  clippings: []
+  clippings: all
   comments: []
-  endings: []
+  endings: all
   ignore:
     envs: []
   blanklines: false
