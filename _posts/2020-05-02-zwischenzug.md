@@ -9,7 +9,7 @@ title: Zwischenzug یا حرکت بینابینی در شطرنج
 
 اسم این تکنیک آلمانیه و در زبان انگلیسی بهش intermezzo، intermediate move و in-between move هم گفته میشه
 
-<img src="https://ehsaider.ir/images/Zwischenzug.PNG" alt="حرکت بینابینی شطرنج">
+<img src="https://ehsaider.ir/images/zwischenzug.png" alt="حرکت بینابینی شطرنج">
 
 در این تصویر میبینیم فیل سفید قلعه f1 رو تهدید کرده اما بازیکن سیاه میتونه با قلعه c1 به شاه حرف کیش بده و بعد از رفع کیش اجباری قلعه f8 رو تعویض کنه و بعدشم با وزیرش فیل مهاجم در خانه b4 رو بزنه
 
@@ -19,19 +19,19 @@ title: Zwischenzug یا حرکت بینابینی در شطرنج
 
 [مهره آچمز یا pin](https://ehsaider.ir/pin)
 
-[حرکت زوگزوانگ یا Zugzwang](https://ehsaider.ir/Zugzwang)
+[حرکت زوگزوانگ یا Zugzwang](https://ehsaider.ir/zugzwang)
 
-[سیخ کباب یا Skewer](https://ehsaider.ir/Skewer)
+[سیخ کباب یا Skewer](https://ehsaider.ir/skewer)
 
-[اضافه بار یا Overloaded Pieces](https://ehsaider.ir/Overloaded-Pieces)
+[اضافه بار یا Overloaded Pieces](https://ehsaider.ir/overloaded-pieces)
 
-[تاکتیک انسداد یا تداخل](https://ehsaider.ir/Interference)
+[تاکتیک انسداد یا تداخل](https://ehsaider.ir/interference)
 
-[هدیه یونانی یا Greek Gift](https://ehsaider.ir/Greek-Gift)
+[هدیه یونانی یا Greek Gift](https://ehsaider.ir/greek-gift)
 
-[کیش دوگانه یا Double Check](https://ehsaider.ir/Double-Check)
+[کیش دوگانه یا Double Check](https://ehsaider.ir/double-check)
 
-[حمله برخاست](https://ehsaider.ir/Discovered-Attack)
+[حمله برخاست](https://ehsaider.ir/discovered-attack)
 
 [حمله دوگانه یا چنگال](https://ehsaider.ir/fork)
 
