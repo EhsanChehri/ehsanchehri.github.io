@@ -26,7 +26,7 @@ compress_html:
   clippings: all
   comments: [""]
   endings: []
-  blanklines: false
+  blanklines: true
   profile: false
   ignore:
     envs: []
