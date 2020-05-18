@@ -11,7 +11,7 @@ title: تاکتیک انسداد یا تداخل در شطرنج
 
 بهتره همیشه ارتباط مهره‌های حریفو در نظر بگیرید تا علاوه بر غافلگیر نشدن بتونید تکنیک‌هارو استفاده کنید
 
-<img src="https://ehsaider.ir/images/Interference.PNG" alt="تداخل شطرنج">
+<img src="https://ehsaider.ir/images/interference.png" alt="تداخل شطرنج">
 
 در تصویر بالا میبینیم فیل سیاه با رفتن به خانه b5 میتونه ارتباط وزیر و فیل سفید رو قطع کنه و همزمان توسط رخ b1 دفاع بشه
 
@@ -21,19 +21,19 @@ title: تاکتیک انسداد یا تداخل در شطرنج
 
 [مهره آچمز یا pin](https://ehsaider.ir/pin)
 
-[Zwischenzug یا حرکت بینابینی](https://ehsaider.ir/Zwischenzug)
+[Zwischenzug یا حرکت بینابینی](https://ehsaider.ir/zwischenzug)
 
-[حرکت زوگزوانگ یا Zugzwang](https://ehsaider.ir/Zugzwang)
+[حرکت زوگزوانگ یا Zugzwang](https://ehsaider.ir/zugzwang)
 
-[سیخ کباب یا Skewer](https://ehsaider.ir/Skewer)
+[سیخ کباب یا Skewer](https://ehsaider.ir/skewer)
 
-[اضافه بار یا Overloaded Pieces](https://ehsaider.ir/Overloaded-Pieces)
+[اضافه بار یا Overloaded Pieces](https://ehsaider.ir/overloaded-pieces)
 
-[هدیه یونانی یا Greek Gift](https://ehsaider.ir/Greek-Gift)
+[هدیه یونانی یا Greek Gift](https://ehsaider.ir/greek-gift)
 
-[کیش دوگانه یا Double Check](https://ehsaider.ir/Double-Check)
+[کیش دوگانه یا Double Check](https://ehsaider.ir/double-check)
 
-[حمله برخاست](https://ehsaider.ir/Discovered-Attack)
+[حمله برخاست](https://ehsaider.ir/discovered-attack)
 
 [حمله دوگانه یا چنگال](https://ehsaider.ir/fork)
 
