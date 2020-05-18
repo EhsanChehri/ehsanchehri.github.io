@@ -7,7 +7,7 @@ title: اضافه بار یا Overloaded Pieces در شطرنج
 
 برای انجام وظیفعه اصلی هر مهره بهتره یک دفاع داشته باشه
 
-<img src="https://ehsaider.ir/images/Overloaded-Pieces.PNG" alt="اضافه بار شطرنج">
+<img src="https://ehsaider.ir/images/overloaded-pieces.png" alt="اضافه بار شطرنج">
 
 در تصویر بالا میبینید پیاده f7 نمیتونه همزمان از اسب و فیل دفاع کنه و حریف از موقعیت استفاده میکنه به یکیشون حمله میکنه
 
@@ -17,19 +17,19 @@ title: اضافه بار یا Overloaded Pieces در شطرنج
 
 [مهره آچمز یا pin](https://ehsaider.ir/pin)
 
-[Zwischenzug یا حرکت بینابینی](https://ehsaider.ir/Zwischenzug)
+[Zwischenzug یا حرکت بینابینی](https://ehsaider.ir/zwischenzug)
 
-[حرکت زوگزوانگ یا Zugzwang](https://ehsaider.ir/Zugzwang)
+[حرکت زوگزوانگ یا Zugzwang](https://ehsaider.ir/zugzwang)
 
-[سیخ کباب یا Skewer](https://ehsaider.ir/Skewer)
+[سیخ کباب یا Skewer](https://ehsaider.ir/skewer)
 
-[تاکتیک انسداد یا تداخل](https://ehsaider.ir/Interference)
+[تاکتیک انسداد یا تداخل](https://ehsaider.ir/interference)
 
-[هدیه یونانی یا Greek Gift](https://ehsaider.ir/Greek-Gift)
+[هدیه یونانی یا Greek Gift](https://ehsaider.ir/greek-gift)
 
-[کیش دوگانه یا Double Check](https://ehsaider.ir/Double-Check)
+[کیش دوگانه یا Double Check](https://ehsaider.ir/double-check)
 
-[حمله برخاست](https://ehsaider.ir/Discovered-Attack)
+[حمله برخاست](https://ehsaider.ir/discovered-attack)
 
 [حمله دوگانه یا چنگال](https://ehsaider.ir/fork)
 
