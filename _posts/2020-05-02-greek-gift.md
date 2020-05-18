@@ -7,7 +7,7 @@ title: هدیه یونانی یا Greek Gift در شطرنج
 
 قربانی یونانی یکی از روش های حمله به شاه قلعه رفته‌ست و بهتره قبل از قلعه رفتن فیل مزاحم قلعه رفتن بشه
 
-<img src="https://ehsaider.ir/images/Greek-Gift.PNG" alt="هدیه یونانی">
+<img src="https://ehsaider.ir/images/greek-gift.png" alt="هدیه یونانی">
 
 در این تصویر میبینید فیل سفید در خانه h7 قربانی میشه و شاه مجبوره بیاد بیرون
 
@@ -17,19 +17,19 @@ title: هدیه یونانی یا Greek Gift در شطرنج
 
 [مهره آچمز یا pin](https://ehsaider.ir/pin)
 
-[Zwischenzug یا حرکت بینابینی](https://ehsaider.ir/Zwischenzug)
+[Zwischenzug یا حرکت بینابینی](https://ehsaider.ir/zwischenzug)
 
-[حرکت زوگزوانگ یا Zugzwang](https://ehsaider.ir/Zugzwang)
+[حرکت زوگزوانگ یا Zugzwang](https://ehsaider.ir/zugzwang)
 
-[سیخ کباب یا Skewer](https://ehsaider.ir/Skewer)
+[سیخ کباب یا Skewer](https://ehsaider.ir/skewer)
 
-[اضافه بار یا Overloaded Pieces](https://ehsaider.ir/Overloaded-Pieces)
+[اضافه بار یا Overloaded Pieces](https://ehsaider.ir/overloaded-pieces)
 
-[تاکتیک انسداد یا تداخل](https://ehsaider.ir/Interference)
+[تاکتیک انسداد یا تداخل](https://ehsaider.ir/interference)
 
-[کیش دوگانه یا Double Check](https://ehsaider.ir/Double-Check)
+[کیش دوگانه یا Double Check](https://ehsaider.ir/double-check)
 
-[حمله برخاست](https://ehsaider.ir/Discovered-Attack)
+[حمله برخاست](https://ehsaider.ir/discovered-attack)
 
 [حمله دوگانه یا چنگال](https://ehsaider.ir/fork)
 
