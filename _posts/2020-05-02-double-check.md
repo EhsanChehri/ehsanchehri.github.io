@@ -9,7 +9,7 @@ title: کیش دوگانه یا Double Check در شطرنج
 
 کیش دوگانه یکی از تکنیک های مناسب برای کیش و مات سریعه و  در بی حرکت کردن شاه حریف میتونه خیلی موثر باشه
 
-<img src="https://ehsaider.ir/images/Double-Check.PNG" alt="کیش دوگانه">
+<img src="https://ehsaider.ir/images/double-check.png" alt="کیش دوگانه">
 
 در این تصویر میبینیم که اسب سفید با رفتن به خانه b6 میتونه همزمان خودش و رخ به شاه سیاه کیش بدن که بعد از رفتن شاه سیاه به خانه b8 رخ سفید میره a8 و سیاه کیش و مات میشه
 
@@ -19,23 +19,21 @@ title: کیش دوگانه یا Double Check در شطرنج
 
 [مهره آچمز یا pin](https://ehsaider.ir/pin)
 
-[Zwischenzug یا حرکت بینابینی](https://ehsaider.ir/Zwischenzug)
+[Zwischenzug یا حرکت بینابینی](https://ehsaider.ir/zwischenzug)
 
-[حرکت زوگزوانگ یا Zugzwang](https://ehsaider.ir/Zugzwang)
+[حرکت زوگزوانگ یا Zugzwang](https://ehsaider.ir/zugzwang)
 
-[سیخ کباب یا Skewer](https://ehsaider.ir/Skewer)
+[سیخ کباب یا Skewer](https://ehsaider.ir/skewer)
 
-[اضافه بار یا Overloaded Pieces](https://ehsaider.ir/Overloaded-Pieces)
+[اضافه بار یا Overloaded Pieces](https://ehsaider.ir/overloaded-pieces)
 
-[تاکتیک انسداد یا تداخل](https://ehsaider.ir/Interference)
+[تاکتیک انسداد یا تداخل](https://ehsaider.ir/interference)
 
-[هدیه یونانی یا Greek Gift](https://ehsaider.ir/Greek-Gift)
+[هدیه یونانی یا Greek Gift](https://ehsaider.ir/greek-gift)
 
-[حمله برخاست](https://ehsaider.ir/Discovered-Attack)
+[حمله برخاست](https://ehsaider.ir/discovered-attack)
 
 [حمله دوگانه یا چنگال](https://ehsaider.ir/fork)
-
-[طعمه یا decoy در شطرنج](https://ehsaider.ir/decoy)
 
 [طعمه یا decoy در شطرنج](https://ehsaider.ir/decoy)
 
