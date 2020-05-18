@@ -24,13 +24,12 @@ kramdown:
 
 compress_html:
   clippings: all
-  comments: []
+  comments: [""]
   endings: []
-  ignore:
-    envs: []
   blanklines: false
   profile: false
-  startings: []
+  ignore:
+    envs: []
 
 sass:
   style: :compressed
