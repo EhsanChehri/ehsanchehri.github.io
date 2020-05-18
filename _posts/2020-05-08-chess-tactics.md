@@ -15,21 +15,21 @@ title: لیست تاکتیک های شطرنج
 
 [آچمزی](https://ehsaider.ir/pin): مهره بی حرکت
 
-[سیخ کباب](https://ehsaider.ir/Skewer): حمله به مهره‌های قرار گرفته در یک خط
+[سیخ کباب](https://ehsaider.ir/skewer): حمله به مهره‌های قرار گرفته در یک خط
 
 [چنگال](https://ehsaider.ir/fork): حمله همزمان به دو مهره
 
-[حمله برخاست](https://ehsaider.ir/Discovered-Attack): بازکردن مسیر مهره خودی توسط مهره خودی برای حمله
+[حمله برخاست](https://ehsaider.ir/discovered-attack): بازکردن مسیر مهره خودی توسط مهره خودی برای حمله
 
-[کیش دوگانه](https://ehsaider.ir/Double-Check): کیش دادن با دو مهره همزمان
+[کیش دوگانه](https://ehsaider.ir/double-check): کیش دادن با دو مهره همزمان
 
-[اضافه بار](https://ehsaider.ir/Overloaded-Pieces): حمله به مهره‌هایی که دفاع مشترک دارن
+[اضافه بار](https://ehsaider.ir/overloaded-pieces): حمله به مهره‌هایی که دفاع مشترک دارن
 
-[حرکت بینابینی](https://ehsaider.ir/Zwischenzug): تهدید مهره حریف همزمان با تهدید طرف مقابل
+[حرکت بینابینی](https://ehsaider.ir/zwischenzug): تهدید مهره حریف همزمان با تهدید طرف مقابل
 
-[زوگزوانگ](https://ehsaider.ir/Zugzwang): اجبار حریف به بدتر کردن وضعیت خودش
+[زوگزوانگ](https://ehsaider.ir/zugzwang): اجبار حریف به بدتر کردن وضعیت خودش
 
-[تداخل](https://ehsaider.ir/Interference): قطع کردن مسیر ارتباط مهره‌های مهاجم
+[تداخل](https://ehsaider.ir/interference): قطع کردن مسیر ارتباط مهره‌های مهاجم
 
 [طعمه](https://ehsaider.ir/decoy): قربانی دادن برای رسیدن به هدف اصلی
 
