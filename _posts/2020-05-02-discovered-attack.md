@@ -11,7 +11,7 @@ title: حمله برخاست در شطرنج
 
 برای دوستانی که از سایتای خارجی استفاده میکنن Discovered Attack همون حمله برخاسته
 
-<img src="https://ehsaider.ir/images/Discovered-Attack.PNG" alt="حمله برخاست">
+<img src="https://ehsaider.ir/images/discovered-attack.png" alt="حمله برخاست">
 
 در این تصویر میبینیم با جابجایی مهره اسب به خانه e5 میتونیم کیش برخاست کنیم و بعد از حرکت اجباری حریف وزیر سیاه رو میگیریم
 
@@ -21,19 +21,19 @@ title: حمله برخاست در شطرنج
 
 [مهره آچمز یا pin](https://ehsaider.ir/pin)
 
-[Zwischenzug یا حرکت بینابینی](https://ehsaider.ir/Zwischenzug)
+[Zwischenzug یا حرکت بینابینی](https://ehsaider.ir/zwischenzug)
 
-[حرکت زوگزوانگ یا Zugzwang](https://ehsaider.ir/Zugzwang)
+[حرکت زوگزوانگ یا Zugzwang](https://ehsaider.ir/zugzwang)
 
-[سیخ کباب یا Skewer](https://ehsaider.ir/Skewer)
+[سیخ کباب یا Skewer](https://ehsaider.ir/skewer)
 
-[اضافه بار یا Overloaded Pieces](https://ehsaider.ir/Overloaded-Pieces)
+[اضافه بار یا Overloaded Pieces](https://ehsaider.ir/overloaded-pieces)
 
-[تاکتیک انسداد یا تداخل](https://ehsaider.ir/Interference)
+[تاکتیک انسداد یا تداخل](https://ehsaider.ir/interference)
 
-[هدیه یونانی یا Greek Gift](https://ehsaider.ir/Greek-Gift)
+[هدیه یونانی یا Greek Gift](https://ehsaider.ir/greek-gift)
 
-[کیش دوگانه یا Double Check](https://ehsaider.ir/Double-Check)
+[کیش دوگانه یا Double Check](https://ehsaider.ir/double-check)
 
 [حمله دوگانه یا چنگال](https://ehsaider.ir/fork)
 
