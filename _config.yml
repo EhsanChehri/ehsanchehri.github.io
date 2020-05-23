@@ -6,8 +6,6 @@ avatar: https://ehsaider.ir/images/ehsaider.png
 
 url: https://ehsaider.ir
 
-baseurl: ""
-
 permalink: /:title
 
 encoding: UTF-8
@@ -37,10 +35,3 @@ sass:
 gems:
   - jekyll-sitemap
   - jekyll-feed
-
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - LICENSE
-  - README.md
-  
