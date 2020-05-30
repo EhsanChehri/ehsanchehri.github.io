@@ -7,6 +7,6 @@ title: تماس با احسان چهری
 
 آدرس ایمیل: ehsanchhry@gmail.com
 
-توییتر: twitter.com/ehsanchehri
+توییتر: <a href="https://twitter.com/ehsanchehri" rel="nofollow noopener" target="_blank">twitter.com/ehsanchehri</a>
 
-تلگرام: t.me/ehsan142
+تلگرام: <a href="https://t.me/ehsan142" rel="nofollow noopener" target="_blank">t.me/ehsan142</a>
