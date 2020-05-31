@@ -255,22 +255,9 @@ nav {
   background-color: $lightGray;
 }
 
-.Footer {
-  margin: 2rem auto 0;
-  padding: 1rem 1.25rem;
-  position: relative;
-  text-align: right;
-}
-
-.Footer-links {
-  flex: 1;
-  list-style: none;
-  margin: 0;
-  padding: 0;
-}
-.Footer-link {
-  font-size: 0.875rem;
-  white-space: nowrap;
+footer {
+  padding: 20px 0;
+  text-align: center;
 }
 
 .center {
