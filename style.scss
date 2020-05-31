@@ -255,9 +255,11 @@ nav {
   background-color: $lightGray;
 }
 
-footer {
-  padding: 20px 0;
-  text-align: center;
+.Footer {
+  margin: 2rem auto 0;
+  padding: 1rem 1.25rem;
+  position: relative;
+  text-align: right;
 }
 
 .Footer-links {
