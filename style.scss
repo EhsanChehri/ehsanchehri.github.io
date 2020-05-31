@@ -260,6 +260,17 @@ footer {
   text-align: center;
 }
 
+.Footer-links {
+  flex: 1;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+.Footer-link {
+  font-size: 0.875rem;
+  white-space: nowrap;
+}
+
 .center {
   text-align: center;
 }
