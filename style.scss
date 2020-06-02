@@ -51,6 +51,7 @@ html {
 $blue: #3878B7;
 $black: #000000;
 $gray: #666666;
+$darkGray: #4A4A4A;
 $lightGray: #EEEEEE;
 $white: #FFFFFF;
 
@@ -69,7 +70,7 @@ html {
 body {
 	background: $white;
   font: 18px/1.4 $Vazir;
-  color: $black;
+  color: $darkGray;
 }
 
 .container {
