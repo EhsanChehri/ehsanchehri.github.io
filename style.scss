@@ -40,6 +40,14 @@ footer, header, hgroup, menu, nav, section {
 body {
 	line-height: 1;
 }
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
 blockquote > p { border-right: 4px solid #4C4C4C; padding-right: 15px; }
 table {
 	border-collapse: collapse;
