@@ -141,7 +141,7 @@ a {
 }
 
 ul { list-style-type: square; }
-
+ul { list-style-position: inside; }
 ol { list-style-type: persify; }
 
 li > ul, li > ol { margin-bottom: 0; }
