@@ -71,7 +71,7 @@ html {
 body {
 	background: $white;
   font: 18px/1.4 $Vazir;
-  color: $darkGray;
+  color: $black;
 }
 
 .container {
@@ -83,7 +83,7 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: $Vazir;
-  color: $darkerGray;
+  color: $black;
   font-weight: bold;
 
   line-height: 1.7;
@@ -186,7 +186,7 @@ nav {
 
   a {
     margin-left: 20px;
-    color: $darkGray;
+    color: $black;
     text-align: right;
 
     @include mobile {
