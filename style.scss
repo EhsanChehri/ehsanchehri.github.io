@@ -231,6 +231,5 @@ footer {
   text-align: center;
 }
 
-pre {
-    direction: ltr;
-}
+pre { direction: ltr; border: 1px solid silver; border-radius: 3px; padding: 8px 12px; overflow-x: auto; }
+pre > code { font-size: 15px; border: 0; padding-left: 0; }
