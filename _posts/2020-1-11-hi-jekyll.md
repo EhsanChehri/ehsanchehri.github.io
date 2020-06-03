@@ -17,10 +17,12 @@ title: سلام جکیل!
 
 برای افزودن کنونیکال از کدهای آماده [اینجا](https://gist.github.com/bennylope/1894706#gistcomment-2821633) استفاده کنید
 
-```
-sudo apt install g++
-sudo apt install cmake
-sudo apt install cmake-curses-gui
+```ruby
+    {% if page.canonical_url != nil %}
+    <link rel="canonical" href="{{ page.canonical_url }}"/>
+    {% else %}
+    <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+    {% endif %}
 ```
 
 و نشانه گذاری متن با مارک دون انجام میشه که [این لینک](https://commonmark.org/help/) میتونه کمکتون کنه
