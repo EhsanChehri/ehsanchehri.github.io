@@ -33,19 +33,10 @@ time, mark, audio, video {
 	font: inherit;
 	vertical-align: baseline;
 }
+
 article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: block;
-}
-body {
-	line-height: 1;
-}
-
-html {
-  box-sizing: border-box;
-}
-*, *:before, *:after {
-  box-sizing: inherit;
 }
 
 $blue: #3878B7;
@@ -57,20 +48,26 @@ $white: #FFFFFF;
 
 $Vazir: Vazir, Tahoma;
 
+body {
+  line-height: 1;
+  background: $white;
+  font: 18px/1.4 $Vazir;
+  color: $darkGray;
+}
+
+html {
+  box-sizing: border-box;
+  font-size: 100%;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
 @mixin mobile {
   @media screen and (max-width: 640px) {
     @content;
   }
-}
-
-html {
-  font-size: 100%;
-}
-
-body {
-	background: $white;
-  font: 18px/1.4 $Vazir;
-  color: $darkGray;
 }
 
 .container {
@@ -84,7 +81,6 @@ h1, h2, h3, h4, h5, h6 {
   font-family: $Vazir;
   color: $black;
   font-weight: bold;
-
   line-height: 1.7;
   margin: 1em 0 15px;
   padding: 0;
