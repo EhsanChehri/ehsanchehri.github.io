@@ -45,7 +45,7 @@ title: ابزارهای بررسی بک لینک رقبا
 
 [google.com/advanced_search](https://www.google.com/advanced_search)
 
-<b>مطالب مرتبط</b>
+***
 
 [رفع خطای 404](https://ehsaider.ir/404-error)
 
