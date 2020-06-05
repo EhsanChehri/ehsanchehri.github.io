@@ -17,26 +17,38 @@ title: حرکت زوگزوانگ یا Zugzwang در شطرنج
 
 ***
 
-[مهره آچمز یا pin](https://ehsaider.ir/pin)
+[شطرنج](https://ehsaider.ir/chess)
 
-[Zwischenzug یا حرکت بینابینی](https://ehsaider.ir/zwischenzug)
+[آن پاسان](https://ehsaider.ir/en-passant)
 
-[سیخ کباب یا Skewer](https://ehsaider.ir/skewer)
+[کانال‌های برتر شطرنج](https://ehsaider.ir/aparat)
 
-[اضافه بار یا Overloaded Pieces](https://ehsaider.ir/overloaded-pieces)
+[قلعه گیری در شطرنج](https://ehsaider.ir/castling)
 
-[تاکتیک انسداد یا تداخل](https://ehsaider.ir/interference)
+[چیدمان صفحه شطرنج](https://ehsaider.ir/chess-board)
 
-[هدیه یونانی یا Greek Gift](https://ehsaider.ir/greek-gift)
+[طعمه در شطرنج](https://ehsaider.ir/decoy)
 
-[کیش دوگانه یا Double Check](https://ehsaider.ir/double-check)
+[حمله برخاست در شطرنج](https://ehsaider.ir/discovered-attack)
 
-[حمله برخاست](https://ehsaider.ir/discovered-attack)
+[کیش دوگانه شطرنج](https://ehsaider.ir/double-check)
 
-[حمله دوگانه یا چنگال](https://ehsaider.ir/fork)
+[چنگال در شطرنج](https://ehsaider.ir/fork)
 
-[طعمه یا decoy در شطرنج](https://ehsaider.ir/decoy)
+[حمله یونانی شطرنج](https://ehsaider.ir/greek-gift)
 
-[آن پاسان یا گرفتن در حین عبور](https://ehsaider.ir/en-passant)
+[تداخل در شطرنج](https://ehsaider.ir/interference)
 
-[قلعه رفتن یا حرکت شاه قلعه](https://ehsaider.ir/castling)
+[اضافه بار در شطرنج](https://ehsaider.ir/overloaded-pieces)
+
+[آچمزی شطرنج](https://ehsaider.ir/pin)
+
+[سیخ کباب در شطرنج](https://ehsaider.ir/skewer)
+
+[شطرنج دینامیک](https://ehsaider.ir/static-or-dynamic)
+
+[تمپ در شطرنج](https://ehsaider.ir/tempo)
+
+[حرکت بینابینی شطرنج](https://ehsaider.ir/zwischenzug)
+
+[تاکتیک های شطرنج](https://ehsaider.ir/chess-tactics)
