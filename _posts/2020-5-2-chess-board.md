@@ -27,37 +27,37 @@ title: چیدمان صفحه شطرنج
 
 <img src="https://ehsaider.ir/images/center.png" alt="مرکز صفحه شطرنج">
 
-...
+&nbsp;
 
 **حاشیه صفحه شطرنج**
 
 <img src="https://ehsaider.ir/images/margin.png" alt="حاشیه صفحه شطرنج">
 
-...
+&nbsp;
 
 **مرز صفحه شطرنج**
 
 <img src="https://ehsaider.ir/images/border.png" alt="مرز صفحه شطرنج">
 
-...
+&nbsp;
 
 **قطر صفحه شطرنج**
 
 <img src="https://ehsaider.ir/images/diameter.png" alt="قطر صفحه شطرنج">
 
-...
+&nbsp;
 
 **عرض یا ردیف در صفحه شطرنج**
 
 <img src="https://ehsaider.ir/images/width.png" alt="عرض صفحه شطرنج">
 
-...
+&nbsp;
 
 **ستون صفحه شطرنج**
 
 <img src="https://ehsaider.ir/images/column.png" alt="ستون صفحه شطرنج">
 
-...
+&nbsp;
 
 **جناح صفحه شطرنج**
 
