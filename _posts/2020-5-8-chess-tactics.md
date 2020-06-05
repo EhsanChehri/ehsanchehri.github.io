@@ -52,3 +52,5 @@ title: لیست تاکتیک های شطرنج
 [شطرنج دینامیک](https://ehsaider.ir/static-or-dynamic)
 
 [تمپ در شطرنج](https://ehsaider.ir/tempo)
+
+[حمله یونانی شطرنج](https://ehsaider.ir/greek-gift)
