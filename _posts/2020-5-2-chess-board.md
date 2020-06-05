@@ -21,7 +21,7 @@ title: چیدمان صفحه شطرنج
 
 <img src="https://ehsaider.ir/images/corner.png" alt="گوشه صفحه شطرنج">
 
-...
+&nbsp;
 
 **مرکز صفحه شطرنج**
 
