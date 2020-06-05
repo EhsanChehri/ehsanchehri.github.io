@@ -55,3 +55,51 @@ title: رفع پنالتی گوگل
 - طراحی کلی سایت و بهینه سازی رابط کاربری برای انتقال تجربه خوب به مخاطبان
 - بهینه سازی ناوبری سایت که هم مورد استفاده کاربرهاست و هم موتورهای جستجو، گردش بین صفحات نباید به سختی انجام بشه
 - در بررسی‌های انجام شده سایت‌های کند نرخ تبدیل خیلی پایینی دارن و این طبیعیه که هرجا صحبتی از سئو باشه بحثی از سرعت سایت هم درمیان باشه. برای توضیحات بیشتر پست افزایش سرعت سایت رو مطالعه کنید
+
+<b>مطالب مرتبط</b>
+
+[رفع خطای 404](https://ehsaider.ir/404-error)
+
+[نکات خرید لینک](https://ehsaider.ir/buy-backlinks)
+
+[سئو آدرس صفحات](https://ehsaider.ir/seo-urls)
+
+[سئو صفحه بندی های سایت](https://ehsaider.ir/pagination-seo)
+
+[حذف محتوای تکراری](https://ehsaider.ir/duplicate-content)
+
+[ابزارهای بررسی بک لینک](https://ehsaider.ir/backlink-checker)
+
+[استراتژی سئو تحقیق کلمات کلیدی](https://ehsaider.ir/keyword-research)
+
+[اشتباهات سئو](https://ehsaider.ir/seo-mistakes)
+
+[اصول سئو محتوا](https://ehsaider.ir/seo-content)
+
+[دلایل افت رتبه در گوگل](https://ehsaider.ir/ranking-drop)
+
+[افزایش ترافیک سایت](https://ehsaider.ir/increase-website-traffic)
+
+[افزایش رتبه سایت](https://ehsaider.ir/improve-google-rankings)
+
+[افزایش سرعت ایندکس](https://ehsaider.ir/google-index)
+
+[تغییر دامنه سایت بدون افت رتبه](https://ehsaider.ir/site-url-change)
+
+[تکنیک های سئو کلاه سیاه](https://ehsaider.ir/black-hat-seo)
+
+[چک لیست سئو وردپرس](https://ehsaider.ir/seo-checklist)
+
+[روش‌های سئو پیشرفته](https://ehsaider.ir/advanced-seo)
+
+[سئو دسته بندی ها و برچسب ها](https://ehsaider.ir/category-seo)
+
+[سئو ویدیوها](https://ehsaider.ir/video-seo)
+
+[سئو منفی](https://ehsaider.ir/negative-seo)
+
+[افزایش سرعت سایت](https://ehsaider.ir/speed-up-website)
+
+[هک سئو](https://ehsaider.ir/seo-hacks)
+
+[سئو تصاویر](https://ehsaider.ir/image-seo)
