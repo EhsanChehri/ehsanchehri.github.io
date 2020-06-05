@@ -238,3 +238,53 @@ title: فاکتورهای سئو 2020
 - گوگل دنس. اگر نتایج یک سرچ مورد رضایت کاربر نباشه، گوگل دنس نتایجو بالا پایین می‌کنه. [metamend](https://metamend.com/archive/education/google-dance/)
 - گوگل مدیک. این بروزرسانی تمرکزش روی سایتای پزشکیه که دارو می‌فروشن یا تبلیغ می‌کنن. سایتای پزشکی که افت داشتن سیگنال‌های اعتماد ضعیفی داشتن مثل: نداشتن گواهی ssl، مشکلات نمایش در دستگاه موبایل، نداشتن یا اطلاعات اشتباه در صفحات درباره و تماس. [sel](https://searchengineland.com/googles-august-first-core-algorithm-update-who-did-it-impact-and-how-much-303538)
 - Disavow Tool. این ابزار خیلی عالیه، چه برای بی‌اثر کردن لینک‌سازی اشتباه خودتون و چه حملاتی که ممکنه سایتای رقیب به شما داشته باشن
+
+<b>مطالب مرتبط</b>
+
+[رفع خطای 404](https://ehsaider.ir/404-error)
+
+[نکات خرید لینک](https://ehsaider.ir/buy-backlinks)
+
+[سئو آدرس صفحات](https://ehsaider.ir/seo-urls)
+
+[سئو صفحه بندی های سایت](https://ehsaider.ir/pagination-seo)
+
+[حذف محتوای تکراری](https://ehsaider.ir/duplicate-content)
+
+[ابزارهای بررسی بک لینک](https://ehsaider.ir/backlink-checker)
+
+[استراتژی سئو تحقیق کلمات کلیدی](https://ehsaider.ir/keyword-research)
+
+[اشتباهات سئو](https://ehsaider.ir/seo-mistakes)
+
+[اصول سئو محتوا](https://ehsaider.ir/seo-content)
+
+[دلایل افت رتبه در گوگل](https://ehsaider.ir/ranking-drop)
+
+[افزایش ترافیک سایت](https://ehsaider.ir/increase-website-traffic)
+
+[افزایش رتبه سایت](https://ehsaider.ir/improve-google-rankings)
+
+[افزایش سرعت ایندکس](https://ehsaider.ir/google-index)
+
+[تغییر دامنه سایت بدون افت رتبه](https://ehsaider.ir/site-url-change)
+
+[تکنیک های سئو کلاه سیاه](https://ehsaider.ir/black-hat-seo)
+
+[چک لیست سئو وردپرس](https://ehsaider.ir/seo-checklist)
+
+[رفع پنالتی گوگل](https://ehsaider.ir/google-penalty)
+
+[روش‌های سئو پیشرفته](https://ehsaider.ir/advanced-seo)
+
+[سئو دسته بندی ها و برچسب ها](https://ehsaider.ir/category-seo)
+
+[سئو ویدیوها](https://ehsaider.ir/video-seo)
+
+[سئو منفی](https://ehsaider.ir/negative-seo)
+
+[افزایش سرعت سایت](https://ehsaider.ir/speed-up-website)
+
+[هک سئو](https://ehsaider.ir/seo-hacks)
+
+[سئو تصاویر](https://ehsaider.ir/image-seo)
