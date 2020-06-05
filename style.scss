@@ -227,7 +227,7 @@ footer {
 
 pre { direction: ltr; border: 1px solid silver; border-radius: 3px; padding: 8px 12px; overflow-x: auto; }
 
-blockquote {
+[dir="rtl"] blockquote {
   border-left: none;
   border-right: 4px solid #bbb;
 }
