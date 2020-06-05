@@ -16,7 +16,6 @@ title: چیدمان صفحه شطرنج
 <img src="https://ehsaider.ir/images/chess-board.png" alt="صفحه شطرنج">
 
 **گوشه صفحه شطرنج**
-
 <img src="https://ehsaider.ir/images/corner.png" alt="گوشه صفحه شطرنج">
 
 **مرکز صفحه شطرنج**
