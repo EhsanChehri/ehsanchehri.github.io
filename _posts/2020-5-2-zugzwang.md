@@ -15,7 +15,7 @@ title: حرکت زوگزوانگ یا Zugzwang در شطرنج
 
 برای حل تمرینات زوگزوانگ به [اینجا](https://lichess.org/practice/intermediate-tactics/zugzwang/9cKgYrHb) مراجعه کنید
 
-<b>مطالب مرتبط</b>
+***
 
 [مهره آچمز یا pin](https://ehsaider.ir/pin)
 
