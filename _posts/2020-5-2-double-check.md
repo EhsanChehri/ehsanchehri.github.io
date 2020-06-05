@@ -15,7 +15,7 @@ title: کیش دوگانه یا Double Check در شطرنج
 
 برای انجام تمرینات کیش دوگانه به [اینجا](https://lichess.org/practice/basic-tactics/double-check/RUQASaZm/8Chn1bVb) مراجعه کنید
 
-<b>مطالب مرتبط</b>
+***
 
 [مهره آچمز یا pin](https://ehsaider.ir/pin)
 
