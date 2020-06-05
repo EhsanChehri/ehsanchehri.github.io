@@ -85,7 +85,7 @@ AddOutputFilterByType DEFLATE application/x-javascript
 
 استفاده از اسکریپت‌های مختلف آمارگیر و لایک شبکه‌های اجتماعی احتمالا به پیشرفت سایت شما کمکی نمی‌کنن
 
-<b>مطالب مرتبط</b>
+***
 
 [رفع خطای 404](https://ehsaider.ir/404-error)
 
