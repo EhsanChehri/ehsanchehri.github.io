@@ -73,8 +73,6 @@ title: آدرس url فارسی برای سئو بهتره یا انگلیسی؟
 
 [نکات خرید لینک](https://ehsaider.ir/buy-backlinks)
 
-[سئو آدرس صفحات](https://ehsaider.ir/seo-urls)
-
 [سئو صفحه بندی های سایت](https://ehsaider.ir/pagination-seo)
 
 [حذف محتوای تکراری](https://ehsaider.ir/duplicate-content)
