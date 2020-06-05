@@ -25,7 +25,7 @@ title: قلعه گیری یا قلعه رفتن در شطرنج
 
 برای انجام تمرینات حرکت شاه قلعه [اینجا](https://lichess.org/learn#/14) کلیک کنید
 
-<b>مطالب مرتبط</b>
+***
 
 [Zwischenzug یا حرکت بینابینی](https://ehsaider.ir/zwischenzug)
 
