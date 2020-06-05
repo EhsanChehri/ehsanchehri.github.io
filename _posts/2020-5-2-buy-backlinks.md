@@ -23,8 +23,6 @@ title: خرید لینک خوبه یا بد؟
 
 [رفع خطای 404](https://ehsaider.ir/404-error)
 
-[نکات خرید لینک](https://ehsaider.ir/buy-backlinks)
-
 [سئو آدرس صفحات](https://ehsaider.ir/seo-urls)
 
 [سئو صفحه بندی های سایت](https://ehsaider.ir/pagination-seo)
