@@ -17,7 +17,7 @@ title: تاکتیک انسداد یا تداخل در شطرنج
 
 برای انجام تمرینات تداخل به [اینجا](https://lichess.org/practice/intermediate-tactics/interference/g1fxVZu9/zSpQlGkf) مراجعه کنید
 
-<b>مطالب مرتبط</b>
+***
 
 [مهره آچمز یا pin](https://ehsaider.ir/pin)
 
