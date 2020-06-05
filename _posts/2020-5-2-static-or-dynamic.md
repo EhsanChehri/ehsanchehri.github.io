@@ -15,4 +15,38 @@ title: ویدیو آموزش شطرنج دینامیک
 
 ***
 
-[کانال‌های شطرنج آپارات](https://ehsaider.ir/aparat)
+[شطرنج](https://ehsaider.ir/chess)
+
+[آن پاسان](https://ehsaider.ir/en-passant)
+
+[کانال‌های برتر شطرنج](https://ehsaider.ir/aparat)
+
+[قلعه گیری در شطرنج](https://ehsaider.ir/castling)
+
+[چیدمان صفحه شطرنج](https://ehsaider.ir/chess-board)
+
+[طعمه در شطرنج](https://ehsaider.ir/decoy)
+
+[حمله برخاست در شطرنج](https://ehsaider.ir/discovered-attack)
+
+[کیش دوگانه شطرنج](https://ehsaider.ir/double-check)
+
+[چنگال در شطرنج](https://ehsaider.ir/fork)
+
+[حمله یونانی شطرنج](https://ehsaider.ir/greek-gift)
+
+[تداخل در شطرنج](https://ehsaider.ir/interference)
+
+[اضافه بار در شطرنج](https://ehsaider.ir/overloaded-pieces)
+
+[آچمزی شطرنج](https://ehsaider.ir/pin)
+
+[سیخ کباب در شطرنج](https://ehsaider.ir/skewer)
+
+[تمپ در شطرنج](https://ehsaider.ir/tempo)
+
+[زوگزوانگ شطرنج](https://ehsaider.ir/zugzwang)
+
+[حرکت بینابینی شطرنج](https://ehsaider.ir/zwischenzug)
+
+[تاکتیک های شطرنج](https://ehsaider.ir/chess-tactics)
