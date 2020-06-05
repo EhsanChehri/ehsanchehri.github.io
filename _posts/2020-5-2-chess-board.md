@@ -15,50 +15,72 @@ title: چیدمان صفحه شطرنج
 
 در این تصویر چینش استاندارد مهره‌های شطرنج رو میبینیم
 
-<hr>
-
 **گوشه صفحه شطرنج**
 
 <img src="https://ehsaider.ir/images/corner.png" alt="گوشه صفحه شطرنج">
-
-<hr>
 
 **مرکز صفحه شطرنج**
 
 <img src="https://ehsaider.ir/images/center.png" alt="مرکز صفحه شطرنج">
 
-<hr>
-
 **حاشیه صفحه شطرنج**
 
 <img src="https://ehsaider.ir/images/margin.png" alt="حاشیه صفحه شطرنج">
-
-<hr>
 
 **مرز صفحه شطرنج**
 
 <img src="https://ehsaider.ir/images/border.png" alt="مرز صفحه شطرنج">
 
-<hr>
-
 **قطر صفحه شطرنج**
 
 <img src="https://ehsaider.ir/images/diameter.png" alt="قطر صفحه شطرنج">
-
-<hr>
 
 **عرض یا ردیف در صفحه شطرنج**
 
 <img src="https://ehsaider.ir/images/width.png" alt="عرض صفحه شطرنج">
 
-<hr>
-
 **ستون صفحه شطرنج**
 
 <img src="https://ehsaider.ir/images/column.png" alt="ستون صفحه شطرنج">
 
-<hr>
-
 **جناح صفحه شطرنج**
 
 <img src="https://ehsaider.ir/images/faction.png" alt="جناح صفحه شطرنج">
+
+***
+
+[شطرنج](https://ehsaider.ir/chess)
+
+[آن پاسان](https://ehsaider.ir/en-passant)
+
+[کانال‌های برتر شطرنج](https://ehsaider.ir/aparat)
+
+[قلعه گیری در شطرنج](https://ehsaider.ir/castling)
+
+[طعمه در شطرنج](https://ehsaider.ir/decoy)
+
+[حمله برخاست در شطرنج](https://ehsaider.ir/discovered-attack)
+
+[کیش دوگانه شطرنج](https://ehsaider.ir/double-check)
+
+[چنگال در شطرنج](https://ehsaider.ir/fork)
+
+[حمله یونانی شطرنج](https://ehsaider.ir/greek-gift)
+
+[تداخل در شطرنج](https://ehsaider.ir/interference)
+
+[اضافه بار در شطرنج](https://ehsaider.ir/overloaded-pieces)
+
+[آچمزی شطرنج](https://ehsaider.ir/pin)
+
+[سیخ کباب در شطرنج](https://ehsaider.ir/skewer)
+
+[شطرنج دینامیک](https://ehsaider.ir/static-or-dynamic)
+
+[تمپ در شطرنج](https://ehsaider.ir/tempo)
+
+[زوگزوانگ شطرنج](https://ehsaider.ir/zugzwang)
+
+[حرکت بینابینی شطرنج](https://ehsaider.ir/zwischenzug)
+
+[تاکتیک های شطرنج](https://ehsaider.ir/chess-tactics)
