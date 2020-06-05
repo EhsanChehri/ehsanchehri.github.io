@@ -31,8 +31,6 @@ title: حمله برخاست در شطرنج
 
 [طعمه در شطرنج](https://ehsaider.ir/decoy)
 
-[حمله برخاست در شطرنج](https://ehsaider.ir/discovered-attack)
-
 [کیش دوگانه شطرنج](https://ehsaider.ir/double-check)
 
 [چنگال در شطرنج](https://ehsaider.ir/fork)
