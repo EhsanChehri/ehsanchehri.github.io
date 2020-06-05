@@ -15,49 +15,49 @@ title: چیدمان صفحه شطرنج
 
 <img src="https://ehsaider.ir/images/chess-board.png" alt="صفحه شطرنج">
 
-&nbsp;
+<br>
 
 **گوشه صفحه شطرنج**
 
 <img src="https://ehsaider.ir/images/corner.png" alt="گوشه صفحه شطرنج">
 
-&nbsp;
+<br>
 
 **مرکز صفحه شطرنج**
 
 <img src="https://ehsaider.ir/images/center.png" alt="مرکز صفحه شطرنج">
 
-&nbsp;
+<br>
 
 **حاشیه صفحه شطرنج**
 
 <img src="https://ehsaider.ir/images/margin.png" alt="حاشیه صفحه شطرنج">
 
-&nbsp;
+<br>
 
 **مرز صفحه شطرنج**
 
 <img src="https://ehsaider.ir/images/border.png" alt="مرز صفحه شطرنج">
 
-&nbsp;
+<br>
 
 **قطر صفحه شطرنج**
 
 <img src="https://ehsaider.ir/images/diameter.png" alt="قطر صفحه شطرنج">
 
-&nbsp;
+<br>
 
 **عرض یا ردیف در صفحه شطرنج**
 
 <img src="https://ehsaider.ir/images/width.png" alt="عرض صفحه شطرنج">
 
-&nbsp;
+<br>
 
 **ستون صفحه شطرنج**
 
 <img src="https://ehsaider.ir/images/column.png" alt="ستون صفحه شطرنج">
 
-&nbsp;
+<br>
 
 **جناح صفحه شطرنج**
 
