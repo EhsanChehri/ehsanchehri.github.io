@@ -40,3 +40,15 @@ title: لیست تاکتیک های شطرنج
 ترفیع پیاده: تبدیل پیاده به سوار در عرض آخر
 
 کیش دائم: سه مرتبه تکرار کیش برای کسب تساوی در بازی‌های باخته
+
+***
+
+[شطرنج](https://ehsaider.ir/chess)
+
+[کانال‌های برتر شطرنج](https://ehsaider.ir/aparat)
+
+[چیدمان صفحه شطرنج](https://ehsaider.ir/chess-board)
+
+[شطرنج دینامیک](https://ehsaider.ir/static-or-dynamic)
+
+[تمپ در شطرنج](https://ehsaider.ir/tempo)
