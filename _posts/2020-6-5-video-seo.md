@@ -47,6 +47,8 @@ title: سئو ویدیوها در 8 مرحله
 
 ***
 
+[سئو](https://ehsaider.ir/seo)
+
 [رفع خطای 404](https://ehsaider.ir/404-error)
 
 [نکات خرید لینک](https://ehsaider.ir/buy-backlinks)
