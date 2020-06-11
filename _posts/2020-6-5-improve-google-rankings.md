@@ -105,6 +105,8 @@ title: افزایش رتبه سایت در گوگل
 
 ***
 
+[سئو](https://ehsaider.ir/seo)
+
 [رفع خطای 404](https://ehsaider.ir/404-error)
 
 [نکات خرید لینک](https://ehsaider.ir/buy-backlinks)
