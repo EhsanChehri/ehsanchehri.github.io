@@ -61,6 +61,8 @@ title: اصول سئو محتوا
 
 ***
 
+[سئو](https://ehsaider.ir/seo)
+
 [رفع خطای 404](https://ehsaider.ir/404-error)
 
 [نکات خرید لینک](https://ehsaider.ir/buy-backlinks)
