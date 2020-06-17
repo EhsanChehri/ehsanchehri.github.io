@@ -9,7 +9,7 @@ title: Zwischenzug یا حرکت بینابینی در شطرنج
 
 اسم این تکنیک آلمانیه و در زبان انگلیسی بهش intermezzo، intermediate move و in-between move هم گفته میشه
 
-<img src="https://ehsaider.ir/images/zwischenzug.png" alt="حرکت بینابینی شطرنج">
+<img src="https://ehsaider.ir/static/image/zwischenzug.png" alt="حرکت بینابینی شطرنج">
 
 در این تصویر میبینیم فیل سفید قلعه f1 رو تهدید کرده اما بازیکن سیاه میتونه با قلعه c1 به شاه حرف کیش بده و بعد از رفع کیش اجباری قلعه f8 رو تعویض کنه و بعدشم با وزیرش فیل مهاجم در خانه b4 رو بزنه
 
