@@ -7,7 +7,7 @@ title: اضافه بار یا Overloaded Pieces در شطرنج
 
 برای انجام وظیفعه اصلی هر مهره بهتره یک دفاع داشته باشه
 
-<img src="https://ehsaider.ir/images/overloaded-pieces.png" alt="اضافه بار شطرنج">
+<img src="https://ehsaider.ir/static/image/overloaded-pieces.png" alt="اضافه بار شطرنج">
 
 در تصویر بالا میبینید پیاده f7 نمیتونه همزمان از اسب و فیل دفاع کنه و حریف از موقعیت استفاده میکنه به یکیشون حمله میکنه
 
