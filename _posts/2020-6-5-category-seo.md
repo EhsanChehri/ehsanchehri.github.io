@@ -47,8 +47,6 @@ title: سئو دسته بندی ها و برچسب ها
 
 ***
 
-[سئو](https://ehsaider.ir/seo)
-
 [رفع خطای 404](https://ehsaider.ir/404-error)
 
 [نکات خرید لینک](https://ehsaider.ir/buy-backlinks)
