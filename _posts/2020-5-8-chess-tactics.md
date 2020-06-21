@@ -43,14 +43,4 @@ title: لیست تاکتیک های شطرنج
 
 ***
 
-[شطرنج](https://ehsaider.ir/chess)
-
-[کانال‌های برتر شطرنج](https://ehsaider.ir/aparat)
-
-[چیدمان صفحه شطرنج](https://ehsaider.ir/chess-board)
-
-[شطرنج دینامیک](https://ehsaider.ir/static-or-dynamic)
-
-[تمپ در شطرنج](https://ehsaider.ir/tempo)
-
-[حمله یونانی شطرنج](https://ehsaider.ir/greek-gift)
+[آرشیو پست‌های آموزش شطرنج](https://ehsaider.ir/chess)
