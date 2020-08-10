@@ -17,4 +17,4 @@ title: حمله برخاست در شطرنج
 
 برای حل تمرینات حمله برخاست [اینجا](https://lichess.org/practice/basic-tactics/discovered-attacks/MnsJEWnI/vV50tWGB) کلیک کنید
 
-<a href="https://ehsaider.ir/seo" class="button">Chess</a>
+<a href="https://ehsaider.ir/chess" class="button">Chess</a>
