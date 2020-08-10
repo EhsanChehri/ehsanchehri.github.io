@@ -181,6 +181,7 @@ nav {
     color: $black;
     text-align: right;
     background-color: $lightGray;
+    border-radius: 12px;
 
     @include mobile {
       margin: 0 10px;
