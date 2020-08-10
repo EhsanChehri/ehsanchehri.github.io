@@ -17,6 +17,4 @@ title: آن پاسان یا en passant در شطرنج
 
 حالا وقتشه چندتا تمرین گرفتن در حین عبور از سایت لایچس حل کنی تا ملکه ذهنت بشه. برای حل تمرین [اینجا](https://lichess.org/learn#/15) کلیک کن
 
-***
-
-[آرشیو پست‌های آموزش شطرنج](https://ehsaider.ir/chess)
+<a href="https://ehsaider.ir/seo" class="button">Chess</a>
