@@ -85,6 +85,4 @@ AddOutputFilterByType DEFLATE application/x-javascript
 
 استفاده از اسکریپت‌های مختلف آمارگیر و لایک شبکه‌های اجتماعی احتمالا به پیشرفت سایت شما کمکی نمی‌کنن
 
-***
-
-[آرشیو پست‌های آموزش سئو](https://ehsaider.ir/seo)
+<a href="https://ehsaider.ir/seo" class="button">SEO</a>
