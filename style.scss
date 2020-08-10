@@ -231,3 +231,8 @@ pre { direction: ltr; border: 1px solid silver; border-radius: 3px; padding: 8px
   border-left: none;
   border-right: 4px solid #bbb;
 }
+
+.button {
+	font-size: 100%;
+	font: inherit;
+}
