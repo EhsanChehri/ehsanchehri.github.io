@@ -13,6 +13,4 @@ title: ویدیو آموزش شطرنج دینامیک
 
 منتشر شده در [کانال فدراسیون شطرنج ایران](https://www.aparat.com/iranchessfederation)
 
-***
-
-[آرشیو پست‌های آموزش شطرنج](https://ehsaider.ir/chess)
+<a href="https://ehsaider.ir/seo" class="button">Chess</a>
