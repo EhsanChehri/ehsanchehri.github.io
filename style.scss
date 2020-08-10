@@ -180,8 +180,7 @@ nav {
     margin-left: 20px;
     color: $black;
     text-align: right;
-    border: 1px solid;
-    padding: 5px 10px;
+    background-color: $gray;
 
     @include mobile {
       margin: 0 10px;
