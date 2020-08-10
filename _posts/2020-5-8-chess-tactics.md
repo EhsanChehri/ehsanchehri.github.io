@@ -41,6 +41,4 @@ title: لیست تاکتیک های شطرنج
 
 کیش دائم: سه مرتبه تکرار کیش برای کسب تساوی در بازی‌های باخته
 
-***
-
-[آرشیو پست‌های آموزش شطرنج](https://ehsaider.ir/chess)
+<a href="https://ehsaider.ir/seo" class="button">Chess</a>
