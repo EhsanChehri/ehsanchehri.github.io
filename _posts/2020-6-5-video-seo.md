@@ -48,3 +48,5 @@ title: سئو ویدیوها در 8 مرحله
 ***
 
 [آرشیو پست‌های آموزش سئو](https://ehsaider.ir/seo)
+
+<a href="https://ehsaider.ir/seo" class="button">SEO</a>
