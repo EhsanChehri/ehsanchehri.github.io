@@ -233,7 +233,12 @@ pre { direction: ltr; border: 1px solid silver; border-radius: 3px; padding: 8px
 }
 
 .button {
-	font-size: 100%;
-	font: inherit;
-	border: 1px;
+  background-color: #e7e7e7;
+  color: black;
+  border: none;
+  padding: 10px 24px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 12px;
 }
