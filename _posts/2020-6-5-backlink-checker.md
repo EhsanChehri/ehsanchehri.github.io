@@ -55,6 +55,4 @@ title: ابزارهای بررسی بک لینک رقبا
 
 [google.com/advanced_search](https://www.google.com/advanced_search)
 
-***
-
-[آرشیو پست‌های آموزش سئو](https://ehsaider.ir/seo)
+<a href="https://ehsaider.ir/seo" class="button">SEO</a>
