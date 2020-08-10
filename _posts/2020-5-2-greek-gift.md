@@ -13,6 +13,4 @@ title: هدیه یونانی یا Greek Gift در شطرنج
 
 برای انجام تمرینات هدیه یونانی به [اینجا](https://lichess.org/practice/intermediate-tactics/greek-gift/s5pLU7Of/uCkLsFs1) مراجعه کنید
 
-***
-
-[آرشیو پست‌های آموزش شطرنج](https://ehsaider.ir/chess)
+<a href="https://ehsaider.ir/seo" class="button">Chess</a>
