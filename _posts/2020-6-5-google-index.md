@@ -49,6 +49,4 @@ http://www.google.com/ping?sitemap=https://ehsaider.ir/sitemap.xml
 
 قبل از انجام این مراحل در ابتدا باید ساختار صفحات سایت بهینه بشن و دسترسی به تمام سایت با سه چهار کلیک انجام بشه. برای بهبود خزش، افزایش سرعت سایت رو فراموش نکنید
 
-***
-
-[آرشیو پست‌های آموزش سئو](https://ehsaider.ir/seo)
+<a href="https://ehsaider.ir/seo" class="button">SEO</a>
