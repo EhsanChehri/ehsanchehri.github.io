@@ -15,6 +15,4 @@ title: حرکت زوگزوانگ یا Zugzwang در شطرنج
 
 برای حل تمرینات زوگزوانگ به [اینجا](https://lichess.org/practice/intermediate-tactics/zugzwang/9cKgYrHb) مراجعه کنید
 
-***
-
-[آرشیو پست‌های آموزش شطرنج](https://ehsaider.ir/chess)
+<a href="https://ehsaider.ir/seo" class="button">Chess</a>
