@@ -63,4 +63,4 @@ title: چیدمان صفحه شطرنج
 
 <img src="https://ehsaider.ir/static/image/faction.png" alt="جناح صفحه شطرنج">
 
-<a href="https://ehsaider.ir/seo" class="button">Chess</a>
+<a href="https://ehsaider.ir/chess" class="button">Chess</a>
