@@ -45,4 +45,4 @@ add_filter("wpseo_robots", function($robots) {
 
 نکات گفته شده برآیند تجربه چندین ساله‌ست و لازم نیست بیشتر از این روی این مبحث تمرکز کنید. رعایت موارد تکنیکال می‌تونه تاثیر کار شما رو چندین برابر کنه اما توجه داشته باشید در ابتدا موارد اساسی تر رو فراموش نکنید
 
-<a href="https://ehsaider.ir/seo" class="button">SEO</a>
+<a href="https://ehsaider.ir/seo" class="button">آرشیو مقالات سئو</a>
