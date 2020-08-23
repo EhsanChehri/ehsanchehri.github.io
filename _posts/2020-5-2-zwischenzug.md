@@ -15,4 +15,4 @@ title: Zwischenzug یا حرکت بینابینی در شطرنج
 
 برای حل تمرینات بینابینی به [اینجا](https://lichess.org/practice/basic-tactics/zwischenzug/ITWY4GN2/CSGoTH5f) مراجعه کنید
 
-<a href="https://ehsaider.ir/chess" class="button">Chess</a>
+<a href="https://ehsaider.ir/chess" class="button">آرشیو مقالات شطرنج</a>
