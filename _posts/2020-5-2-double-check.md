@@ -15,4 +15,4 @@ title: کیش دوگانه یا Double Check در شطرنج
 
 برای انجام تمرینات کیش دوگانه به [اینجا](https://lichess.org/practice/basic-tactics/double-check/RUQASaZm/8Chn1bVb) مراجعه کنید
 
-<a href="https://ehsaider.ir/chess" class="button">Chess</a>
+<a href="https://ehsaider.ir/chess" class="button">آرشیو مقالات شطرنج</a>
