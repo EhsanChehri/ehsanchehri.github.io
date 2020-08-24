@@ -242,3 +242,9 @@ pre { direction: ltr; border: 1px solid silver; border-radius: 3px; padding: 8px
   display: inline-block;
   font-size: 16px;
 }
+
+.menu{direction:rtl}
+.menu li{display:inline-block;}
+.menu li ul{position:absolute;padding:0;visibility:hidden}
+.menu li ul li{display:block}
+.menu li:hover > ul{visibility:visible}
