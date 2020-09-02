@@ -169,7 +169,6 @@ nav {
   @include mobile {
     float: none;
     margin-top: 9px;
-    display: block;
   }
 
   a {
@@ -179,7 +178,7 @@ nav {
 
     @include mobile {
       margin: 0 10px;
-      color: $blue;
+      color: $black;
     }
   }
 }
