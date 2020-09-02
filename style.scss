@@ -74,7 +74,6 @@ html {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: $Vazir;
   color: $black;
   font-weight: bold;
   line-height: 1.7;
@@ -162,7 +161,6 @@ video {
 nav {
   float: none;
   margin-top: 23px;
-  font-family: $Vazir;
   font-size: 18px;
 
   @include mobile {
