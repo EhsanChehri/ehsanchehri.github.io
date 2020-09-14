@@ -233,3 +233,8 @@ pre { direction: ltr; border: 1px solid silver; border-radius: 3px; padding: 8px
   display: inline-block;
   font-size: 16px;
 }
+
+div {
+  text-align: justify;
+  text-justify: inter-word;
+}
