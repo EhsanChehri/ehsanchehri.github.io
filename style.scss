@@ -34,7 +34,6 @@ article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: block;}
 
-$darkGray: #4A4A4A;
 $lightGray: #EEEEEE;
 $white: #FFFFFF;
 
@@ -44,7 +43,7 @@ body {
   line-height: 1;
   background: $white;
   font: 18px/1.4 $Vazir;
-  color: $darkGray;
+  color: #4A4A4A;
 }
 
 html {
