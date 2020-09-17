@@ -159,7 +159,7 @@ video {
 
 nav {
   float: none;
-  margin-top: 23px;
+  margin-top: 18px;
   font-size: 18px;
 
   @include mobile {
@@ -173,7 +173,7 @@ nav {
     text-align: right;
 
     @include mobile {
-      margin: 0 5px;
+      margin: 0 1px;
     }
   }
 }
