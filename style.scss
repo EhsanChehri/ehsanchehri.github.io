@@ -150,7 +150,6 @@ video {
 
 .masthead {
   padding: 20px 0;
-  border-bottom: 1px solid $lightGray;
 
   @include mobile {
     text-align: right;
@@ -179,8 +178,8 @@ nav {
 }
 
 .posts > .post {
-  padding-bottom: 2em;
-  border-bottom: 1px solid $lightGray;
+  padding-bottom: 1.5em;
+  border-bottom: 1px solid $ddd;
 }
 
 .posts > .post:last-child {
