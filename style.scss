@@ -34,7 +34,6 @@ article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: block;}
 
-$gray: #666666;
 $darkGray: #4A4A4A;
 $lightGray: #EEEEEE;
 $white: #FFFFFF;
@@ -189,7 +188,7 @@ nav {
   blockquote {
     margin: 1.8em .8em;
     padding: 0.1em 1em;
-    color: $gray;
+    color: #666666;
     font-size: 22px;
     font-style: italic;
   }
