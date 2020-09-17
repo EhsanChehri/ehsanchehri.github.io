@@ -34,14 +34,11 @@ article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: block;}
 
-$lightGray: #EEEEEE;
-$white: #FFFFFF;
-
 $Vazir: Vazir, Tahoma;
 
 body {
   line-height: 1;
-  background: $white;
+  background: #FFFFFF;
   font: 18px/1.4 $Vazir;
   color: #4A4A4A;
 }
@@ -202,7 +199,7 @@ nav {
   margin-top: 50px;
   border-top: 1px solid #ddd;
   border-bottom: 1px solid #ddd;
-  background-color: $white;
+  background-color: #FFFFFF;
 }
 
 footer {
