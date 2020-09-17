@@ -34,7 +34,6 @@ article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: block;}
 
-$black: #000000;
 $gray: #666666;
 $darkGray: #4A4A4A;
 $lightGray: #EEEEEE;
@@ -71,7 +70,7 @@ html {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  color: $black;
+  color: #000000;
   font-weight: bold;
   line-height: 1.7;
   margin: 1em 0 15px;
@@ -167,7 +166,7 @@ nav {
 
   a {
     margin-left: 5px;
-    color: $black;
+    color: #000000;
     text-align: right;
 
     @include mobile {
