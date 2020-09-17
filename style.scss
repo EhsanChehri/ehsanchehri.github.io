@@ -10,8 +10,7 @@
        url('/static/font/Vazir.ttf') format('truetype');
   font-weight: 400;
   font-style: normal;
-  font-display: swap;
-}
+  font-display: swap;}
 
 html, body, div, span, applet, object,
 iframe, h1, h2, h3, h4, h5, h6, p, blockquote,
@@ -135,14 +134,14 @@ video {
   width: 100%;
 }
 
-.clearfix:before,
-.clearfix:after {
-    content: " ";
-    display: table;
+.cf:before,
+.cf:after {
+  content: " ";
+  display: table;
 }
 
-.clearfix:after {
-    clear: both;
+.cf:after {
+  clear: both;
 }
 
 .wrapper-masthead {
