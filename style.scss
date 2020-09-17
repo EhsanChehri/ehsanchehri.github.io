@@ -34,7 +34,6 @@ article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: block;}
 
-$blue: #3878B7;
 $black: #000000;
 $gray: #666666;
 $darkGray: #4A4A4A;
@@ -106,11 +105,11 @@ p {
 }
 
 a {
-  color: $blue;
+  color: #3878B7;
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
-    color: $blue;
+    color: #3878B7;
   }
 }
 
