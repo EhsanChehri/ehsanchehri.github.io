@@ -180,18 +180,15 @@ nav {
 }
 
 .post {
-  blockquote {
+[dir="rtl"] blockquote {
     margin: 1.8em .8em;
     padding: 0.1em 1em;
     color: #666666;
     font-size: 22px;
     font-style: italic;
+    border-left: none;
+    border-right: 4px solid #bbbbbb;
   }
-}
-
-[dir="rtl"] blockquote {
-  border-left: none;
-  border-right: 4px solid #bbbbbb;
 }
 
 .wrapper-footer {
