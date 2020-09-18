@@ -186,12 +186,10 @@ nav {
     color: #666666;
     font-size: 22px;
     font-style: italic;
+    direction: rtl;
+    border-left: none;
+    border-right: 4px solid #bbbbbb;
   }
-}
-
-[dir="rtl"] blockquote {
-  border-left: none;
-  border-right: 4px solid #bbbbbb;
 }
 
 .wrapper-footer {
