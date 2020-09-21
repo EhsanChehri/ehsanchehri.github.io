@@ -49,58 +49,55 @@ title: چک لیست سئو وردپرس
 
 ```
 <ifModule mod_expires.c>  
-        ExpiresActive On  
-        ExpiresDefault "access plus 5 seconds"  
-        ExpiresByType image/x-icon "access plus 2592000 seconds"  
-        ExpiresByType image/jpeg "access plus 2592000 seconds"  
-        ExpiresByType image/png "access plus 2592000 seconds"  
-        ExpiresByType image/gif "access plus 2592000 seconds"  
-        ExpiresByType image/svg+xml "access plus 2592000 seconds"
-        ExpiresByType application/x-font-ttf "access plus 2592000 seconds"
-        ExpiresByType application/x-font-truetype "access plus 2592000 seconds"
-        ExpiresByType application/x-font-opentype "access plus 2592000 seconds"
-        ExpiresByType application/x-font-woff "access plus 2592000 seconds"
-        ExpiresByType application/font-woff2 "access plus 2592000 seconds"
-        ExpiresByType application/vnd.ms-fontobject "access plus 2592000 seconds"
-        ExpiresByType application/font-sfnt "access plus 2592000 seconds"
-        ExpiresByType application/x-shockwave-flash "access plus 2592000 seconds"  
-        ExpiresByType text/css "access plus 604800 seconds"  
-        ExpiresByType text/javascript "access plus 216000 seconds"  
-        ExpiresByType application/javascript "access plus 216000 seconds"  
-        ExpiresByType application/x-javascript "access plus 216000 seconds"  
-        ExpiresByType text/html "access plus 5 seconds"  
-        ExpiresByType application/xhtml+xml "access plus 600 seconds"  
+ExpiresActive On  
+ExpiresDefault "access plus 5 seconds"  
+ExpiresByType image/x-icon "access plus 2592000 seconds"  
+ExpiresByType image/jpeg "access plus 2592000 seconds"  
+ExpiresByType image/png "access plus 2592000 seconds"  
+ExpiresByType image/gif "access plus 2592000 seconds"  
+ExpiresByType image/svg+xml "access plus 2592000 seconds"
+ExpiresByType application/x-font-ttf "access plus 2592000 seconds"
+ExpiresByType application/x-font-truetype "access plus 2592000 seconds"
+ExpiresByType application/x-font-opentype "access plus 2592000 seconds"
+ExpiresByType application/x-font-woff "access plus 2592000 seconds"
+ExpiresByType application/font-woff2 "access plus 2592000 seconds"
+ExpiresByType application/vnd.ms-fontobject "access plus 2592000 seconds"
+ExpiresByType application/font-sfnt "access plus 2592000 seconds"
+ExpiresByType application/x-shockwave-flash "access plus 2592000 seconds"  
+ExpiresByType text/css "access plus 604800 seconds"  
+ExpiresByType text/javascript "access plus 216000 seconds"  
+ExpiresByType application/javascript "access plus 216000 seconds"  
+ExpiresByType application/x-javascript "access plus 216000 seconds"  
+ExpiresByType text/html "access plus 5 seconds"  
+ExpiresByType application/xhtml+xml "access plus 600 seconds"  
 </ifModule>
 
 <IfModule mod_deflate.c>
-  # Compress HTML, CSS, JavaScript, Text, XML and fonts
-  AddOutputFilterByType DEFLATE application/javascript
-  AddOutputFilterByType DEFLATE application/rss+xml
-  AddOutputFilterByType DEFLATE application/vnd.ms-fontobject
-  AddOutputFilterByType DEFLATE application/x-font
-  AddOutputFilterByType DEFLATE application/x-font-opentype
-  AddOutputFilterByType DEFLATE application/x-font-otf
-  AddOutputFilterByType DEFLATE application/x-font-truetype
-  AddOutputFilterByType DEFLATE application/x-font-ttf
-  AddOutputFilterByType DEFLATE application/x-javascript
-  AddOutputFilterByType DEFLATE application/xhtml+xml
-  AddOutputFilterByType DEFLATE application/xml
-  AddOutputFilterByType DEFLATE font/opentype
-  AddOutputFilterByType DEFLATE font/otf
-  AddOutputFilterByType DEFLATE font/ttf
-  AddOutputFilterByType DEFLATE image/svg+xml
-  AddOutputFilterByType DEFLATE image/x-icon
-  AddOutputFilterByType DEFLATE text/css
-  AddOutputFilterByType DEFLATE text/html
-  AddOutputFilterByType DEFLATE text/javascript
-  AddOutputFilterByType DEFLATE text/plain
-  AddOutputFilterByType DEFLATE text/xml
-
-  # Remove browser bugs (only needed for really old browsers)
-  BrowserMatch ^Mozilla/4 gzip-only-text/html
-  BrowserMatch ^Mozilla/4\.0[678] no-gzip
-  BrowserMatch \bMSIE !no-gzip !gzip-only-text/html
-  Header append Vary User-Agent
+AddOutputFilterByType DEFLATE application/javascript
+AddOutputFilterByType DEFLATE application/rss+xml
+AddOutputFilterByType DEFLATE application/vnd.ms-fontobject
+AddOutputFilterByType DEFLATE application/x-font
+AddOutputFilterByType DEFLATE application/x-font-opentype
+AddOutputFilterByType DEFLATE application/x-font-otf
+AddOutputFilterByType DEFLATE application/x-font-truetype
+AddOutputFilterByType DEFLATE application/x-font-ttf
+AddOutputFilterByType DEFLATE application/x-javascript
+AddOutputFilterByType DEFLATE application/xhtml+xml
+AddOutputFilterByType DEFLATE application/xml
+AddOutputFilterByType DEFLATE font/opentype
+AddOutputFilterByType DEFLATE font/otf
+AddOutputFilterByType DEFLATE font/ttf
+AddOutputFilterByType DEFLATE image/svg+xml
+AddOutputFilterByType DEFLATE image/x-icon
+AddOutputFilterByType DEFLATE text/css
+AddOutputFilterByType DEFLATE text/html
+AddOutputFilterByType DEFLATE text/javascript
+AddOutputFilterByType DEFLATE text/plain
+AddOutputFilterByType DEFLATE text/xml
+BrowserMatch ^Mozilla/4 gzip-only-text/html
+BrowserMatch ^Mozilla/4\.0[678] no-gzip
+BrowserMatch \bMSIE !no-gzip !gzip-only-text/html
+Header append Vary User-Agent
 </IfModule>
 
 <ifModule mod_headers.c>
