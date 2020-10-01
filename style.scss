@@ -104,7 +104,8 @@ a {
 }
 
 ul { list-style-type: square;
-     margin-right: 50px;
+     list-style-position: inside;
+     display: inline;
 }
 
 em, i {
