@@ -103,11 +103,9 @@ a {
   text-decoration: none;
 }
 
-ul { list-style-type: square; list-style-position: initial; }
-
-ol { list-style-type: persify; }
-
-li > ul, li > ol { margin-bottom: 0; }
+ul { list-style-type: square;
+     margin-left: 10px;
+}
 
 em, i {
   font-style: italic;
