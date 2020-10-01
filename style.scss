@@ -101,11 +101,12 @@ p {
 a {
   color: #3878B7;
   text-decoration: none;
+  list-style-position: inside;
 }
 
 ul {
   list-style-type: square;
-  list-style-position:outside;
+  list-style-position:inside;
 }
 
 em, i {
