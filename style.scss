@@ -101,13 +101,11 @@ p {
 a {
   color: #3878B7;
   text-decoration: none;
-  &:hover, &:active {
-    color: #3878B7;
-  }
 }
 
 ul { list-style-type: square;
   list-style-position: inside;
+  margin-bottom: 0;
 }
 
 em, i {
