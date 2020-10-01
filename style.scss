@@ -101,7 +101,7 @@ p {
 a {
   color: #3878B7;
   text-decoration: none;
-	cursor: pointer;
+  display: inline-block;
   &:hover, &:active {
     color: #3878B7;
   }
