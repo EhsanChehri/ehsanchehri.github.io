@@ -2,17 +2,13 @@ name: احسایدر
 
 description: روزنوشت‌ها و یادداشت‌های گاه به گاه احسان چهری
 
-avatar: https://ehsaider.ir/images/ehsaider.png
+avatar: https://ehsaider.ir/static/image/logo.svg
 
 url: https://ehsaider.ir
 
 permalink: /:title
 
 encoding: UTF-8
-
-footer-links:
-  twitter: ehsanchehri
-  rss: feed.xml
 
 markdown: kramdown
 highlighter: rouge
