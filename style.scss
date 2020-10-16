@@ -13,7 +13,7 @@
   font-display: swap;}
 
 body {
-  background: #FFFFFF;
+  background: white;
   font: 18px/1.4 Vazir,Tahoma;
   color: #4A4A4A;
 }
@@ -40,7 +40,7 @@ html {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  color: #000000;
+  color: black;
   font-weight: bold;
   line-height: 1.7;
   margin: 1em 0 15px;
@@ -128,7 +128,7 @@ nav {
 
   a {
     margin-left: 5px;
-    color: #000000;
+    color: black;
     text-align: right;
 
     @include mobile {
@@ -139,7 +139,7 @@ nav {
 
 .posts > .post {
   padding-bottom: 1.5em;
-  border-bottom: 1px solid #dddddd;
+  border-bottom: 1px solid lightgray;
 }
 
 .posts > .post:last-child {
