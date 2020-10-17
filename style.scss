@@ -8,9 +8,10 @@
        url('/static/font/Vazir.woff2') format('woff2'),
        url('/static/font/Vazir.woff') format('woff'),
        url('/static/font/Vazir.ttf') format('truetype');
-  font-weight: 400;
+  font-weight: normal;
   font-style: normal;
-  font-display: swap;}
+  font-display: swap;
+}
 
 body {
   background: white;
