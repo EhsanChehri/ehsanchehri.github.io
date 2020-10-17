@@ -3,14 +3,10 @@
 
 @font-face {
   font-family: Vazir;
-  src: url('/static/font/Vazir.eot');
-  src: url('/static/font/Vazir.eot?#iefix') format('embedded-opentype'),
-       url('/static/font/Vazir.woff2') format('woff2'),
-       url('/static/font/Vazir.woff') format('woff'),
-       url('/static/font/Vazir.ttf') format('truetype');
+  font-display: swap;
+  src: url('/static/font/Vazir.woff2') format('woff2');
   font-weight: normal;
   font-style: normal;
-  font-display: swap;
 }
 
 body {
