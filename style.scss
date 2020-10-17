@@ -138,7 +138,9 @@ nav {
 .posts > .post {
   padding-bottom: 1.5em;
   border-bottom: 1px solid lightgray;
-  text-decoration: none;
+  a {
+    text-decoration: none;
+  }
 }
 
 .posts > .post:last-child {
