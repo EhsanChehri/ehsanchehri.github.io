@@ -108,18 +108,13 @@ video {
 }
 
 nav {
-  float: none;
+  float: right;
   margin-top: 9px;
   font-size: 18px;
-
-  @include mobile {
-    float: none;
-  }
 
   a {
     margin-left: 5px;
     color: black;
-    text-align: right;
 
     @include mobile {
       margin: 0 1px;
