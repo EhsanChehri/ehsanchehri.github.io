@@ -1,0 +1,35 @@
+---
+layout: ehsanchehri
+---
+
+<!DOCTYPE html>
+<html lang="fa" dir="rtl">
+<head>
+<title>{% if page.title %}{{ page.title }}{% else %}{{ site.name }}{% endif %}</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+{% if page.canonical_url != nil %}
+<link rel="canonical" href="{{ page.canonical_url }}">
+{% else %}
+<link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+{% endif %}
+<link rel="preload" href="{{ site.url }}/static/font/Vazir.woff2" as="font" type="font/woff2" crossorigin>
+<link href="{{ site.url }}/style.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+<div class="wrapper-masthead">
+<div class="container">
+<header class="masthead clearfix">
+<a title="{{ site.name }}" href="{{ site.url }}/"><img src="{{ site.url }}/static/image/logo.svg" alt="{{ site.name }}"></a>
+<nav>
+<a href="{{ site.url }}/" class="button">خانه</a>
+<a href="{{ site.url }}/seo" class="button">سئو</a>
+<a href="{{ site.url }}/google-ranking-factors" class="button">فاکتورهای گوگل</a>
+</nav>
+</header>
+</div>
+</div>
+<div id="main" role="main" class="container">{{ content }}</div>
+</body>
+</html>
