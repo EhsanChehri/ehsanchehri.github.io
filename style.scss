@@ -20,6 +20,16 @@ html {
   box-sizing: inherit;
 }
 
+.cf:before,
+.cf:after {
+  content: " ";
+  display: table;
+}
+
+.cf:after {
+  clear: both;
+}
+
 @mixin mobile {
   @media screen and (max-width: 640px) {
     @content;
@@ -75,16 +85,6 @@ img {
 
 video {
   width: 100%;
-}
-
-.cf:before,
-.cf:after {
-  content: " ";
-  display: table;
-}
-
-.cf:after {
-  clear: both;
 }
 
 .wrapper-masthead {
