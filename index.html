@@ -7,7 +7,7 @@ layout: default
 {% for post in site.posts limit:20 %}
 <article class="post">
 <h2><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></h2>
-<div class="entry">
+<div>
 {{ post.excerpt }}
 </div>
 </article>
