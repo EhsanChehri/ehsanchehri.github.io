@@ -21,7 +21,7 @@ html {
 }
 
 @mixin mobile {
-  @media screen and (max-width: 640px) {
+  @media screen and (max-width: 500px) {
     @content;
   }
 }
