@@ -9,8 +9,10 @@
   font-style: normal;
 }
 
-body {
-  font: 18px/1.6 Vazir,Tahoma;
+@media screen and (max-width: 600px) {
+  body {
+    font: 18px/1.6 Vazir,Tahoma;
+  }
 }
 
 html {
@@ -19,8 +21,6 @@ html {
 *, *:before, *:after {
   box-sizing: inherit;
 }
-
-@media only screen and (max-width: 640px)
 
 .container {
   margin: 0 auto;
