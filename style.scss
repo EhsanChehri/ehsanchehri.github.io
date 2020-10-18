@@ -13,13 +13,17 @@ body {
   font: 18px/1.6 Vazir,Tahoma;
 }
 
-@media screen and (max-width: 600px)
-
 html {
   box-sizing: border-box;
 }
 *, *:before, *:after {
   box-sizing: inherit;
+}
+
+@mixin mobile {
+  @media screen and (max-width: 640px) {
+    @content;
+  }
 }
 
 .container {
