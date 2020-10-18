@@ -20,18 +20,14 @@ html {
   box-sizing: inherit;
 }
 
-@mixin mobile {
-  @media screen and (max-width: 500px) {
-    @content;
-  }
-}
-
 .container {
   margin: 0 auto;
   max-width: 740px;
   padding: 0 10px;
   width: 100%;
 }
+
+@media screen and (max-width: 640px)
 
 h1 {
   font-size: 30px;
