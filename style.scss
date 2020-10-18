@@ -89,14 +89,6 @@ video {
 
 nav {
   margin-top: 9px;
-
-  a {
-    margin-left: 5px;
-
-    @include mobile {
-      margin: 0 1px;
-    }
-  }
 }
 
 .posts>.post {
@@ -152,6 +144,7 @@ pre {
   text-decoration: none;
   display: inline-block;
   margin-bottom: 5px;
+  margin-left: 5px;
 }
 
 hr {
