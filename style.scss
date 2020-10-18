@@ -9,11 +9,11 @@
   font-style: normal;
 }
 
-@media screen and (max-width: 600px) {
-  body {
-    font: 18px/1.6 Vazir,Tahoma;
-  }
+body {
+	font: 18px/1.6 Vazir,Tahoma;
 }
+
+@media screen and (max-width: 600px)
 
 html {
   box-sizing: border-box;
