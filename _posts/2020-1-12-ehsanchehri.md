@@ -1,5 +1,5 @@
 ---
-layout: ehsanchehri
+layout: page
 title: تماس با احسان چهری
 ---
 
