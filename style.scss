@@ -49,6 +49,7 @@ p {
 
 a {
   color: black;
+  text-decoration: none;
 }
 
 ul {
@@ -78,9 +79,6 @@ nav {
 .posts> .post {
     padding-bottom: 1.5em;
     border-bottom: 1px solid lightgray;
-    a {
-        text-decoration: none;
-    }
 }
 
 .posts > .post:last-child {
