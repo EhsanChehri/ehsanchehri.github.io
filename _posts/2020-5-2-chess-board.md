@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: چیدمان صفحه شطرنج
 ---
 
