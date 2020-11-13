@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: تغییر دامنه سایت بدون افت رتبه
 ---
 
