@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: حرکت زوگزوانگ یا Zugzwang در شطرنج
 ---
 
