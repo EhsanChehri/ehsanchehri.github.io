@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: اصول سئو محتوا
 ---
 
