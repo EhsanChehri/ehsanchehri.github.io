@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: اضافه بار یا Overloaded Pieces در شطرنج
 ---
 
