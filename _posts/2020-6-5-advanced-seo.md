@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: 24 روش سئو پیشرفته
 ---
 
