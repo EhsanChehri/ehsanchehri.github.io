@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: مقابله با تهدیدات سئو منفی
 ---
 
