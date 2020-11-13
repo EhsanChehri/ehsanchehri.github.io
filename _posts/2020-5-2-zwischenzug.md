@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: Zwischenzug یا حرکت بینابینی در شطرنج
 ---
 
