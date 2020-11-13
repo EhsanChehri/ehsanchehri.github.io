@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: ابزارهای بررسی بک لینک رقبا
 ---
 
