@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: تکنیک های سئو کلاه سیاه
 ---
 
