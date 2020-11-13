@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: 15 روش شناسایی و حذف محتوای تکراری
 ---
 
