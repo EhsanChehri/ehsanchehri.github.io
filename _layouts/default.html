@@ -9,7 +9,11 @@ layout: compress
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
-<link rel="canonical" href="https://ehsaider.ir">
+{% if page.canonical_url != nil %}
+<link rel="canonical" href="{{ page.canonical_url }}">
+{% else %}
+<link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+{% endif %}
 <link rel="preload" href="{{ site.url }}/static/font/Vazir.woff2" as="font" type="font/woff2" crossorigin>
 <link href="{{ site.url }}/style.css" rel="stylesheet" type="text/css">
 </head>
