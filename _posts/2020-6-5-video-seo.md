@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: سئو ویدیوها در 8 مرحله
 ---
 
