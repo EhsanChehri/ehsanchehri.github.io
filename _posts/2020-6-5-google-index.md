@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: افزایش سرعت ایندکس صفحات سایت در گوگل
 ---
 
