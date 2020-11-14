@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: خرید لینک خوبه یا بد؟
 ---
 
