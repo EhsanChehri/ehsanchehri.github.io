@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: هک سئو برای موضوعات رقابتی
 ---
 
