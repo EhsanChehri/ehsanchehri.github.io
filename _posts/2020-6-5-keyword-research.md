@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: 6 استراتژی سئو برای تحقیق کلمات کلیدی
 ---
 
