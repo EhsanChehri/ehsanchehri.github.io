@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: حمله برخاست در شطرنج
 ---
 
