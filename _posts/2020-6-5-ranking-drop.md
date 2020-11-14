@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: دلایل حذف صفحات از نتایج گوگل و افت رتبه
 ---
 
