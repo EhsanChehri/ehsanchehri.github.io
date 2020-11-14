@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: روش‌های رایگان افزایش ترافیک سایت
 ---
 
