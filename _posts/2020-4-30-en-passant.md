@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: آن پاسان یا en passant در شطرنج
 ---
 
