@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: قلعه گیری یا قلعه رفتن در شطرنج
 ---
 
