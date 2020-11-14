@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: کیش دوگانه یا Double Check در شطرنج
 ---
 
