@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: سئو دسته بندی ها و برچسب ها
 ---
 
