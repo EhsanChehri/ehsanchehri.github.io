@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: فاکتورهای سئو 2020
 ---
 
