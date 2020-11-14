@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: آدرس url فارسی برای سئو بهتره یا انگلیسی؟
 ---
 
