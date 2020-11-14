@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: اشتباهات سئو فروشگاه های اینترنتی
 ---
 
