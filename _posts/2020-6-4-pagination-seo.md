@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: 9 روش سئو صفحه بندی های سایت
 ---
 
