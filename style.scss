@@ -47,6 +47,10 @@ p {
   margin: 15px 0;
 }
 
+a {
+  color: black;
+}
+
 ul {
   list-style-type: square;
 }
@@ -78,7 +82,6 @@ nav {
 
 .posts a {
   text-decoration: none;
-  color: black;
 }
 
 .posts> .post:last-child {
