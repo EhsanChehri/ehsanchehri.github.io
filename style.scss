@@ -78,7 +78,7 @@ nav {
 .posts> .post {
   padding-bottom: 2em;
   border-bottom: 1px solid lightgray;
-  a { text-decoration: none; }
+  a:link text-decoration: none;
 }
 
 .posts> .post:last-child {
