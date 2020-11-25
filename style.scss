@@ -38,14 +38,14 @@ ul {
     list-style-type: square;
 }
 img {
-    width: 100%;
-    height: auto;
+    max-width: 100%;
+    text-align: center;
 }
 logo {
     text-align: left;
 }
 video {
-    width: 100%;
+    max-width: 100%;
 }
 .wrapper-masthead {
     margin-bottom: 5px;
