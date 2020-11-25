@@ -38,7 +38,11 @@ ul {
     list-style-type: square;
 }
 img {
-    max-width: 100%;
+    width: 100%;
+    height: auto;
+}
+logo {
+    text-align: left;
 }
 video {
     width: 100%;
