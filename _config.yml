@@ -17,7 +17,7 @@ default_lang: html
 css_class: 'pre'
 
 sass:
-style: :compressed
+style: compressed
 
 gems:
 - jekyll-sitemap
