@@ -11,23 +11,14 @@ encoding: UTF-8
 markdown: kramdown
 highlighter: rouge
 kramdown:
-  input: GFM
-  syntax_highlighter_opts:
-    default_lang: html
-    css_class   : 'pre'
-
-compress_html:
-  clippings: all
-  comments: [""]
-  endings: []
-  blanklines: false
-  profile: false
-  ignore:
-    envs: []
+input: GFM
+syntax_highlighter_opts:
+default_lang: html
+css_class : 'pre'
 
 sass:
-  style: :compressed
+style: :compressed
 
 gems:
-  - jekyll-sitemap
-  - jekyll-feed
+- jekyll-sitemap
+- jekyll-feed
