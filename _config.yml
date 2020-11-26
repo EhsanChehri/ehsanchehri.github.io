@@ -2,8 +2,6 @@ name: احسایدر
 
 description: وبلاگ احسایدر، روزنوشت‌ها و یادداشت‌های تخصصی
 
-avatar: https://ehsaider.ir/static/image/logo.svg
-
 url: https://ehsaider.ir
 
 permalink: /:title
