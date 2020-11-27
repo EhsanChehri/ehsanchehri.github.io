@@ -8,14 +8,6 @@ permalink: /:title
 
 encoding: UTF-8
 
-markdown: kramdown
-highlighter: rouge
-kramdown:
-input: GFM
-syntax_highlighter_opts:
-default_lang: html
-css_class: 'pre'
-
 sass:
 style: compressed
 
