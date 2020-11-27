@@ -9,6 +9,9 @@ permalink: /:title
 encoding: UTF-8
 
 kramdown:
+  html_to_native: false
+
+kramdown:
    syntax_highlighter_opts:
       disable : true
 
