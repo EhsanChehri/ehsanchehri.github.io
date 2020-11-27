@@ -4,7 +4,7 @@
 <title>{% if page.title %}{{ page.title }}{% else %}{{ site.name }}{% endif %}</title>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+{% if page.description %}<meta name="description" content="{{ page.description }}">{% endif %}
 {% if page.canonical_url != nil %}
 <link rel="canonical" href="{{ page.canonical_url }}">
 {% else %}
