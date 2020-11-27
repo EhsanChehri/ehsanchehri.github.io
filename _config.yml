@@ -12,8 +12,6 @@ timezone: Asia/Iran
 kramdown:
    syntax_highlighter_opts:
       disable : true
-   html_to_native:
-      disable : true
 
 sass:
 style: compressed
