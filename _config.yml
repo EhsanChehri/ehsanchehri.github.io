@@ -16,6 +16,8 @@ kramdown:
     default_lang: html
     css_class   : 'pre'
 
+syntax_highlighter: false
+
 sass:
 style: compressed
 
