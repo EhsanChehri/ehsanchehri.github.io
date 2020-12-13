@@ -11,8 +11,8 @@ encoding: UTF-8
 timezone: Asia/Tehran
 
 kramdown:
-   syntax_highlighter_opts:
-      disable : true
+syntax_highlighter_opts:
+disable : true
 
 sass:
 style: compressed
