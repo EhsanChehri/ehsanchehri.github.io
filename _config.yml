@@ -10,12 +10,7 @@ encoding: UTF-8
 
 timezone: Asia/Tehran
 
-kramdown:
-  input: GFM
-  hard_wrap: False
-  syntax_highlighter: rouge
-  syntax_highlighter_opts:
-  disable: true
+highlighter: none
 
 sass:
 style: compressed
