@@ -18,4 +18,3 @@ kramdown:
 gems:
 - jekyll-sitemap
 - jekyll-feed
-- jekyll-minifier
