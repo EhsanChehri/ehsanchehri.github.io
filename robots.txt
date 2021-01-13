@@ -1,3 +1,5 @@
+Sitemap: https://ehsaider.ir/sitemap.xml
+
 User-Agent: *
 Allow: /
 
