@@ -1,5 +1,4 @@
-Sitemap: https://ehsaider.ir/sitemap.xml
-
-User-Agent: *
+User-agent: *
 Allow: /
 
+Sitemap: http://www.example.com/sitemap.xml
