@@ -16,7 +16,7 @@ kramdown:
       disable : true
 
 feed:
-  path: atom.xml
+  path: feed.xml
 
 gems:
 - jekyll-sitemap
