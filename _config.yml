@@ -15,6 +15,9 @@ kramdown:
    syntax_highlighter_opts:
       disable : true
 
+feed:
+  path: atom.xml
+
 gems:
 - jekyll-sitemap
 - jekyll-feed
