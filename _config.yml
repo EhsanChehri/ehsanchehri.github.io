@@ -15,12 +15,5 @@ kramdown:
    syntax_highlighter_opts:
       disable : true
 
-jekyll-minifier:
-  preserve_php: true                # Default: false
-  remove_spaces_inside_tags: true   # Default: true
-  remove_multi_spaces: true         # Default: true
-  remove_comments: true             # Default: true
-  remove_intertag_spaces: true      # Default: false
-
 plugins:
   - jekyll-minify-html
