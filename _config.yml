@@ -16,4 +16,4 @@ kramdown:
       disable : true
 
 plugins:
-  - jekyll-minifier
+  - jekyll-minify-html
