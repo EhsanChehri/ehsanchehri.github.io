@@ -16,4 +16,4 @@ kramdown:
       disable : true
 
 gems:
-  - octopress-minify-html
+  - jekyll-minifier
