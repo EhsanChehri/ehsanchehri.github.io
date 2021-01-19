@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: index
 ---
 
-<h1 class="center">[وبلاگ احسایدر]</h1><div class="posts">{% for post in site.posts limit:20 %}<article class="post"><h2><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></h2>{{ post.excerpt }}</article>{% endfor %}</div>
+<div class="posts">{% for post in site.posts limit:20 %}<article class="post"><h2><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></h2>{{ post.excerpt }}</article>{% endfor %}</div>
