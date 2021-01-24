@@ -14,3 +14,13 @@ markdown: kramdown
 kramdown:
    syntax_highlighter_opts:
       disable : true
+
+compress_html:
+  clippings: all
+  comments: ["<!-- ", " -->"]
+  endings: all
+  ignore:
+    envs: [local]
+  blanklines: false
+  profile: true
+  startings: [html, head, body]
