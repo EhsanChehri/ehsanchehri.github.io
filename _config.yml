@@ -9,7 +9,7 @@ permalink: /:title
 encoding: UTF-8
 
 compress_html:
-  clippings: []
+  clippings: all
   comments: []
   endings: []
   ignore:
