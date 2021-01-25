@@ -16,7 +16,7 @@ compress_html:
     envs: [local]
   blanklines: false
   profile: false
-  startings: [html, head, body]
+  startings: []
 
 timezone: Asia/Tehran
 
