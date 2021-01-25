@@ -9,11 +9,11 @@ permalink: /:title
 encoding: UTF-8
 
 compress_html:
-  clippings: all
-  comments: ["<!-- ", " -->"]
-  endings: all
+  clippings: []
+  comments: []
+  endings: []
   ignore:
-    envs: [local]
+    envs: []
   blanklines: false
   profile: false
   startings: []
