@@ -8,19 +8,19 @@ permalink: /:title
 
 encoding: UTF-8
 
-timezone: Asia/Tehran
-
-markdown: kramdown
-kramdown:
-   syntax_highlighter_opts:
-      disable : true
-
 compress_html:
   clippings: all
   comments: ["<!-- ", " -->"]
   endings: all
   ignore:
     envs: [local]
-  blanklines: true
+  blanklines: false
   profile: true
   startings: [html, head, body]
+
+timezone: Asia/Tehran
+
+markdown: kramdown
+kramdown:
+   syntax_highlighter_opts:
+      disable : true
