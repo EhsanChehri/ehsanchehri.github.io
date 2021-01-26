@@ -20,6 +20,11 @@ compress_html:
 
 timezone: Asia/Tehran
 
+paginate: 10
+
+plugins:
+  - jekyll-paginate
+
 markdown: kramdown
 kramdown:
    syntax_highlighter_opts:
