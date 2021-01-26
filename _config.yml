@@ -20,7 +20,7 @@ compress_html:
 
 timezone: Asia/Tehran
 
-paginate: 10
+paginate: 20
 
 plugins:
   - jekyll-paginate
