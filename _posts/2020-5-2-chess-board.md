@@ -13,54 +13,54 @@ title: چیدمان صفحه شطرنج
 
 در این تصویر چینش استاندارد مهره‌های شطرنج رو میبینیم:
 
-<img src="https://ehsaider.ir/static/image/chess-board.png" alt="صفحه شطرنج">
+<img src="https://ehsaider.ir/x/chess-board.png" alt="صفحه شطرنج">
 
 <br>
 
 **گوشه صفحه شطرنج**
 
-<img src="https://ehsaider.ir/static/image/corner.png" alt="گوشه صفحه شطرنج">
+<img src="https://ehsaider.ir/x/corner.png" alt="گوشه صفحه شطرنج">
 
 <br>
 
 **مرکز صفحه شطرنج**
 
-<img src="https://ehsaider.ir/static/image/center.png" alt="مرکز صفحه شطرنج">
+<img src="https://ehsaider.ir/x/center.png" alt="مرکز صفحه شطرنج">
 
 <br>
 
 **حاشیه صفحه شطرنج**
 
-<img src="https://ehsaider.ir/static/image/margin.png" alt="حاشیه صفحه شطرنج">
+<img src="https://ehsaider.ir/x/margin.png" alt="حاشیه صفحه شطرنج">
 
 <br>
 
 **مرز صفحه شطرنج**
 
-<img src="https://ehsaider.ir/static/image/border.png" alt="مرز صفحه شطرنج">
+<img src="https://ehsaider.ir/x/border.png" alt="مرز صفحه شطرنج">
 
 <br>
 
 **قطر صفحه شطرنج**
 
-<img src="https://ehsaider.ir/static/image/diameter.png" alt="قطر صفحه شطرنج">
+<img src="https://ehsaider.ir/x/diameter.png" alt="قطر صفحه شطرنج">
 
 <br>
 
 **عرض یا ردیف در صفحه شطرنج**
 
-<img src="https://ehsaider.ir/static/image/width.png" alt="عرض صفحه شطرنج">
+<img src="https://ehsaider.ir/x/width.png" alt="عرض صفحه شطرنج">
 
 <br>
 
 **ستون صفحه شطرنج**
 
-<img src="https://ehsaider.ir/static/image/column.png" alt="ستون صفحه شطرنج">
+<img src="https://ehsaider.ir/x/column.png" alt="ستون صفحه شطرنج">
 
 <br>
 
 **جناح صفحه شطرنج**
 
-<img src="https://ehsaider.ir/static/image/faction.png" alt="جناح صفحه شطرنج">
+<img src="https://ehsaider.ir/x/faction.png" alt="جناح صفحه شطرنج">
 
 <a href="https://ehsaider.ir/chess" class="button">آرشیو مقالات شطرنج</a>
