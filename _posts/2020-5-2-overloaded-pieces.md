@@ -13,4 +13,4 @@ title: اضافه بار یا Overloaded Pieces در شطرنج
 
 برای انجام تمرینات اضافه بار به [اینجا](https://lichess.org/practice/basic-tactics/overloaded-pieces/o734CNqp/uwHXFeHt) مراجعه کنید
 
-<a href="https://ehsaider.ir/chess" class="button">آرشیو مقالات شطرنج</a>
+<a href="https://ehsaider.ir/chess" class="button">شطرنج</a>
