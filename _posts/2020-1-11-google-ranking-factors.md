@@ -239,4 +239,4 @@ title: فاکتورهای سئو 2020
 - گوگل مدیک. این بروزرسانی تمرکزش روی سایتای پزشکیه که دارو می‌فروشن یا تبلیغ می‌کنن. سایتای پزشکی که افت داشتن سیگنال‌های اعتماد ضعیفی داشتن مثل: نداشتن گواهی ssl، مشکلات نمایش در دستگاه موبایل، نداشتن یا اطلاعات اشتباه در صفحات درباره و تماس. [sel](https://searchengineland.com/googles-august-first-core-algorithm-update-who-did-it-impact-and-how-much-303538)
 - Disavow Tool. این ابزار خیلی عالیه، چه برای بی‌اثر کردن لینک‌سازی اشتباه خودتون و چه حملاتی که ممکنه سایتای رقیب به شما داشته باشن
 
-<a href="https://ehsaider.ir/seo" class="button">آرشیو مقالات سئو</a>
+<a href="https://ehsaider.ir/seo" class="button">سئو</a>
