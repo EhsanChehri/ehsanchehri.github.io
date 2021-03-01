@@ -17,4 +17,4 @@ title: تاکتیک انسداد یا تداخل در شطرنج
 
 برای انجام تمرینات تداخل به [اینجا](https://lichess.org/practice/intermediate-tactics/interference/g1fxVZu9/zSpQlGkf) مراجعه کنید
 
-<a href="https://ehsaider.ir/chess" class="button">آرشیو مقالات شطرنج</a>
+<a href="https://ehsaider.ir/chess" class="button">شطرنج</a>
