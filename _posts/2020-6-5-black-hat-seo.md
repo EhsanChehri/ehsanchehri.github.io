@@ -73,4 +73,4 @@ title: تکنیک های سئو کلاه سیاه
 
 گوگل اهمیتی نمی‌ده محتوای ارسالی در سایت شما توسط کاربرهاست یا شخص شما. اگر راهکارهای مقابله با اسپم اتخاذ نکنید به سایت شما ضربه می‌زنه. [google](https://support.google.com/webmasters/topic/6001971)
 
-<a href="https://ehsaider.ir/seo" class="button">آرشیو مقالات سئو</a>
+<a href="https://ehsaider.ir/seo" class="button">سئو</a>
