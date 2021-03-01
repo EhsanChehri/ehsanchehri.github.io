@@ -59,4 +59,4 @@ title: اصول سئو محتوا
 
 داشتن صفحه درباره می‌تونه اولین قدم برای شما باشه. فرصت‌های نویسندگی مهمان رو فراموش نکنید
 
-<a href="https://ehsaider.ir/seo" class="button">آرشیو مقالات سئو</a>
+<a href="https://ehsaider.ir/seo" class="button">سئو</a>
