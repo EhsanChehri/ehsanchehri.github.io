@@ -24,7 +24,7 @@ layout: compress
 </div>
 <div class="container">
 {% assign crumbs = page.url | remove:'/index.html' | split: '/' %}
-<a href="/">خانه</a>
+<a href="{{ site.url }}/">خانه</a>
 {% for crumb in crumbs offset: 1 %}
   {% if forloop.last %}
     / {{ page.title }}
