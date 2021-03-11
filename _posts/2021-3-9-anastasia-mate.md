@@ -7,5 +7,5 @@ title: مات آناستازیا در شطرنج
 
 به مثال زیر توجه کنید
 
-<img src="https://ehsaider.ir/x/anastasia-mate.png" alt="مات آناستازیا">
+<img class="center" src="https://ehsaider.ir/x/anastasia-mate.png" alt="مات آناستازیا">
 
