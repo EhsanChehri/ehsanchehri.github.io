@@ -16,5 +16,3 @@ title: تاکتیک انسداد یا تداخل در شطرنج
 در تصویر بالا میبینیم فیل سیاه با رفتن به خانه b5 میتونه ارتباط وزیر و فیل سفید رو قطع کنه و همزمان توسط رخ b1 دفاع بشه
 
 برای انجام تمرینات تداخل به [اینجا](https://lichess.org/practice/intermediate-tactics/interference/g1fxVZu9/zSpQlGkf) مراجعه کنید
-
-<a href="https://ehsaider.ir/chess" class="button">شطرنج</a>
