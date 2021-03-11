@@ -14,5 +14,3 @@ title: Zwischenzug یا حرکت بینابینی در شطرنج
 در این تصویر میبینیم فیل سفید قلعه f1 رو تهدید کرده اما بازیکن سیاه میتونه با قلعه c1 به شاه حرف کیش بده و بعد از رفع کیش اجباری قلعه f8 رو تعویض کنه و بعدشم با وزیرش فیل مهاجم در خانه b4 رو بزنه
 
 برای حل تمرینات بینابینی به [اینجا](https://lichess.org/practice/basic-tactics/zwischenzug/ITWY4GN2/CSGoTH5f) مراجعه کنید
-
-<a href="https://ehsaider.ir/chess" class="button">شطرنج</a>
