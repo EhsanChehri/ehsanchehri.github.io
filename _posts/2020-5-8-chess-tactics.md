@@ -48,5 +48,3 @@ http://lucaschess.pythonanywhere.com/downloads
 ترفیع پیاده: تبدیل پیاده به سوار در عرض آخر
 
 کیش دائم: سه مرتبه تکرار کیش برای کسب تساوی در بازی‌های باخته
-
-<a href="https://ehsaider.ir/chess" class="button">شطرنج</a>
