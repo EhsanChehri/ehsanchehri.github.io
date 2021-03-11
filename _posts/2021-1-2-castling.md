@@ -24,5 +24,3 @@ title: قلعه گیری یا قلعه رفتن در شطرنج
 <video controls="controls"><source src="https://aspb3.cdn.asset.aparat.com/aparat-video/cff1d706ec0f478fa61f8b0e113dd7638369870-360p.mp4" type="video/mp4"></video>
 
 برای انجام تمرینات حرکت شاه قلعه [اینجا](https://lichess.org/learn#/14) کلیک کنید
-
-<a href="https://ehsaider.ir/chess" class="button">شطرنج</a>
