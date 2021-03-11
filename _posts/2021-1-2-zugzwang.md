@@ -14,5 +14,3 @@ title: حرکت زوگزوانگ یا Zugzwang در شطرنج
 زوگزوانگ هم ازجمله تکنیک های کم پیداست اما بهتره باهاش آشنا باشیم گوشه آخر استراتژیمون باشه
 
 برای حل تمرینات زوگزوانگ به [اینجا](https://lichess.org/practice/intermediate-tactics/zugzwang/9cKgYrHb) مراجعه کنید
-
-<a href="https://ehsaider.ir/chess" class="button">شطرنج</a>
