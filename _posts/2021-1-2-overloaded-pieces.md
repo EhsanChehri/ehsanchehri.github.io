@@ -12,5 +12,3 @@ title: اضافه بار یا Overloaded Pieces در شطرنج
 در تصویر بالا میبینید پیاده f7 نمیتونه همزمان از اسب و فیل دفاع کنه و حریف از موقعیت استفاده میکنه به یکیشون حمله میکنه
 
 برای انجام تمرینات اضافه بار به [اینجا](https://lichess.org/practice/basic-tactics/overloaded-pieces/o734CNqp/uwHXFeHt) مراجعه کنید
-
-<a href="https://ehsaider.ir/chess" class="button">شطرنج</a>
