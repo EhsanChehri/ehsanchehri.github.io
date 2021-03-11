@@ -12,5 +12,3 @@ title: هدیه یونانی یا Greek Gift در شطرنج
 در این تصویر میبینید فیل سفید در خانه h7 قربانی میشه و شاه مجبوره بیاد بیرون
 
 برای انجام تمرینات هدیه یونانی به [اینجا](https://lichess.org/practice/intermediate-tactics/greek-gift/s5pLU7Of/uCkLsFs1) مراجعه کنید
-
-<a href="https://ehsaider.ir/chess" class="button">شطرنج</a>
