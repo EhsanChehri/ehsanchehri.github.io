@@ -14,5 +14,3 @@ title: کیش دوگانه یا Double Check در شطرنج
 در این تصویر میبینیم که اسب سفید با رفتن به خانه b6 میتونه همزمان خودش و رخ به شاه سیاه کیش بدن که بعد از رفتن شاه سیاه به خانه b8 رخ سفید میره a8 و سیاه کیش و مات میشه
 
 برای انجام تمرینات کیش دوگانه به [اینجا](https://lichess.org/practice/basic-tactics/double-check/RUQASaZm/8Chn1bVb) مراجعه کنید
-
-<a href="https://ehsaider.ir/chess" class="button">شطرنج</a>
