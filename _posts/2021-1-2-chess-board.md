@@ -62,5 +62,3 @@ title: چیدمان صفحه شطرنج
 **جناح صفحه شطرنج**
 
 <img src="https://ehsaider.ir/x/faction.png" alt="جناح صفحه شطرنج">
-
-<a href="https://ehsaider.ir/chess" class="button">شطرنج</a>
